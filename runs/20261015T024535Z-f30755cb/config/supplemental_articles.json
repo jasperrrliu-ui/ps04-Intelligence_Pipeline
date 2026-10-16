@@ -1,0 +1,56 @@
+[
+  {
+    "source_id": "robe-uk-bruno-poet",
+    "publisher_id": "robe-uk",
+    "title": "Bruno Poet: shaping light, story and the space between",
+    "url": "https://www.robeuk.com/our-stories/bruno-poet-shaping-light-story-and-the-space-between",
+    "published_at": "2026-10-07",
+    "date_evidence": "7 October 2026 on publisher page",
+    "source_interest": "Designer describes script, rehearsal, focus, performer, and light as story. Commercial lighting manufacturer interview."
+  },
+  {
+    "source_id": "beyond-the-curtain-space-hamlet",
+    "publisher_id": "beyond-the-curtain",
+    "title": "Dan Sturman - Space Hamlet Interview",
+    "url": "https://www.beyondthecurtain.co.uk/2026/09/dan-sturman-space-hamlet-interview.html",
+    "published_at": "2026-09-25",
+    "date_evidence": "25 September 2026 on publisher page",
+    "source_interest": "A multidisciplinary theatre maker describes translating a script into a production world."
+  },
+  {
+    "source_id": "arxiv-auraluxmuse",
+    "publisher_id": "auraluxmuse-authors",
+    "title": "AuraLuxMuse: Adaptive Fusion Modeling for Aesthetic Stage Lighting Design with Music and Expert Guidance",
+    "url": "https://arxiv.org/html/2610.11792",
+    "published_at": "2026-10-08",
+    "date_evidence": "arXiv submission date 2026-10-08 on https://arxiv.org/abs/2610.11792",
+    "source_interest": "Research on AI stage-lighting cues and expert guidance; preprint, not peer-reviewed proof."
+  },
+  {
+    "source_id": "kgnu-weir-design",
+    "publisher_id": "kgnu",
+    "title": "Interview: Boulder Ensemble Theater Company",
+    "url": "https://kgnu.org/music-posts/interview-boulder-ensemble-theater-company/",
+    "published_at": "2026-09-26",
+    "date_evidence": "September 26, 2026 on publisher page; interview aired September 23",
+    "source_interest": "Director discusses scenic design, dramaturgy, and adapting a production to another theatre; publisher transcript."
+  },
+  {
+    "source_id": "awards-radar-schmigadoon-sound",
+    "publisher_id": "awards-radar",
+    "title": "How Walter Trarbach Bridges the Gap Between Broadway's Golden Age and Schmigadoon!",
+    "url": "https://awardsradar.com/2026/09/18/interview-walter-trarbach-schmigadoon/",
+    "published_at": "2026-09-18T16:05:51Z",
+    "date_evidence": "article:published_time meta tag on publisher page",
+    "source_interest": "Sound designer explains coordination with light to direct audience attention; adjacent discipline and product boundary."
+  },
+  {
+    "source_id": "read-about-stuff-skeleton-sam",
+    "publisher_id": "read-about-stuff",
+    "title": "Harry Fitzpatrick discusses Skeleton Sam's Spooky Theatre Nights!",
+    "url": "https://readaboutstuff.com/2026/10/12/interview-harry-fitzpatrick-discusses-skeleton-sams-spooky-theatre-nights/",
+    "published_at": "2026-10-12T17:56:01Z",
+    "date_evidence": "article:published_time meta tag on publisher page",
+    "source_interest": "Creator discusses how lighting, sound, and stage design create an immersive audience experience."
+  }
+]

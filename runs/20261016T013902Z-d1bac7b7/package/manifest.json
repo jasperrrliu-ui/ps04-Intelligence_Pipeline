@@ -1,0 +1,89 @@
+{
+  "review_id": "357436b36f3a17dae41062b15447cc52",
+  "assets": [
+    {
+      "piece_id": "01",
+      "type": "article",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/articles/01.md"
+    },
+    {
+      "piece_id": "01",
+      "type": "video_script",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/video_scripts/01.md"
+    },
+    {
+      "piece_id": "01",
+      "type": "source_notes",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/source_notes/01.json"
+    },
+    {
+      "piece_id": "02",
+      "type": "article",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/articles/02.md"
+    },
+    {
+      "piece_id": "02",
+      "type": "video_script",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/video_scripts/02.md"
+    },
+    {
+      "piece_id": "02",
+      "type": "source_notes",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/source_notes/02.json"
+    },
+    {
+      "piece_id": "03",
+      "type": "article",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/articles/03.md"
+    },
+    {
+      "piece_id": "03",
+      "type": "video_script",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/video_scripts/03.md"
+    },
+    {
+      "piece_id": "03",
+      "type": "source_notes",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/source_notes/03.json"
+    },
+    {
+      "piece_id": "technical_demo",
+      "type": "technical_demo_script",
+      "path": "runs/20261016T013902Z-d1bac7b7/package/technical_demo_script.md"
+    }
+  ],
+  "publication_links_path": "runs/20261016T013902Z-d1bac7b7/package/publication_links.json",
+  "manual_steps": [
+    "Sign in to or create the Substack publication account; publish the three prepared English articles",
+    "Add each Substack article URL to its companion YouTube description and update publication_links.json",
+    "Record the separate 4-6 minute technical demonstration from the real repository artifacts, showing the published claim and source trace; add its URL to SUBMISSION.md",
+    "Verify that course staff can open all public Substack and YouTube URLs"
+  ],
+  "video_production": [
+    {
+      "vids_project": "https://docs.google.com/videos/d/1xruAI5j3bSjfLisiHxXIsTrWtQzG3bk42hZ7X7v7tjo/edit",
+      "duration": "2:39",
+      "status": "produced_unpublished",
+      "piece_id": "01",
+      "mp4_drive": "https://drive.google.com/file/d/10YpDUy60u3QjyTd0NGYLABsgVBq6uCRe/view",
+      "title": "Scenic and Lighting Design: Story, Space, and Stage Magic"
+    },
+    {
+      "vids_project": "https://docs.google.com/videos/d/1B6eJaFHURYr4qDBRy51Mkw8aHAGHR3CXyH1kY8b5Pho/edit",
+      "duration": "3:00",
+      "status": "produced_unpublished",
+      "piece_id": "02",
+      "mp4_drive": "https://drive.google.com/file/d/1yQsqm-JfzkLCS_Pn4AhjqRZCrrJULcgU/view",
+      "title": "How a Stage Takes Shape: The Art and AI of Stage Design"
+    },
+    {
+      "vids_project": "https://docs.google.com/videos/d/1VP1JeYQh477KbDxctXz5AuXHbcDtq2hlgLDYkXdIsEc/edit",
+      "duration": "1:59",
+      "status": "produced_unpublished",
+      "piece_id": "03",
+      "mp4_drive": "https://drive.google.com/file/d/1luUBDxnui2f9SMa1pDwO9k0GnMHTL5rn/view",
+      "title": "What a Beginner-Facing AI Stage-Design App Should Promise"
+    }
+  ],
+  "publication_metadata_path": "runs/20261016T013902Z-d1bac7b7/package/publication_metadata.json"
+}

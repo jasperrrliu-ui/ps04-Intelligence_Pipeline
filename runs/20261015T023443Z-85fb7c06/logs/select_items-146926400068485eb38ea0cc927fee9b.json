@@ -1,0 +1,14 @@
+{
+  "stage": "select_items",
+  "status": "incomplete",
+  "input_count": 78,
+  "output_count": 0,
+  "started_at": "2026-10-15T02:37:42Z",
+  "finished_at": "2026-10-15T02:37:44Z",
+  "tools": [],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": [
+    "Responses API HTTP 400: {\n  \"error\": {\n    \"message\": \"Response input messages must contain the word 'json' in some form to use 'text.format' of type 'json_object'.\",\n    \"type\": \"invalid_request_error\",\n    \"param\": \"input\",\n    \"code\": null\n  }\n}"
+  ]
+}

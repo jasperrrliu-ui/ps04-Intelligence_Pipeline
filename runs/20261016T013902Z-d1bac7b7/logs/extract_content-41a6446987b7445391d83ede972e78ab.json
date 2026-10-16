@@ -1,0 +1,15 @@
+{
+  "stage": "extract_content",
+  "status": "completed",
+  "input_count": 78,
+  "output_count": 78,
+  "started_at": "2026-10-16T01:39:30Z",
+  "finished_at": "2026-10-16T01:42:03Z",
+  "tools": [
+    "curl",
+    "data/store.py get (retained media reuse)"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

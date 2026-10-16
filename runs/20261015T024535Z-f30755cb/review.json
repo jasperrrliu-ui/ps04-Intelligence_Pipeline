@@ -1,0 +1,37 @@
+{
+  "review_id": "d6059088001ca2b8e912bdb891642e60",
+  "passed": true,
+  "issues": [
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00041"
+    },
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s01161"
+    },
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s01173"
+    },
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s01595"
+    },
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s01597"
+    },
+    {
+      "severity": "warning",
+      "artifact": "human_review",
+      "explanation": "A person must verify interpretation, commercial incentives, critical ASR passages, and final publication wording"
+    }
+  ],
+  "as_of_date": "2026-10-15"
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "extract_content",
+  "status": "completed",
+  "input_count": 1,
+  "output_count": 1,
+  "started_at": "2026-10-15T01:21:06Z",
+  "finished_at": "2026-10-15T01:21:44Z",
+  "tools": [
+    "yt-dlp audio + ffmpeg + whisper.cpp"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

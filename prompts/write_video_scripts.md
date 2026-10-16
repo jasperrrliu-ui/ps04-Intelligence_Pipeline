@@ -1,0 +1,1 @@
+Write a 3–5 minute English video script from the same brief as the article. Return JSON with markdown and claim_ids used. Include narration, feasible visual suggestions, and readable source notes with URLs and timestamps for media. Preserve claim markers. Keep claims consistent with the brief and show one cross-source insight and one limitation.

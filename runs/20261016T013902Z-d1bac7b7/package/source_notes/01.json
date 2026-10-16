@@ -1,0 +1,433 @@
+[
+  {
+    "item_id": "article:8416a3a5474db61fa89e7d51",
+    "version_id": "c06f5a1afafe906d47a44dbe",
+    "locator": {
+      "type": "text",
+      "quote": "AC: All the theaters are so unique. And it depends on what type of theater it is. When I say that, I mean, is it a grid theater that has a fixed grid above, or is it a fly house that has a fly rail where you could bring scenery in and out from above? Is it in the round? Is it alley? Most designers would say they design for the space. You’re designing for the play, of course, but you also design for the space. What I mean by that is the size of the theater. An Importance of Being Earnest on an 80 foot wide theater is going to look very different from an Importance of Being Earnest that’s in a 20 foot wide thrust theater. You also want to fit the space, the set wants to fit nicely in the space as well. And with all that being said, the goal for us is always to focus on the actors. So a lot of the time in these bigger theaters, our goal is to focus in, to really keep our eye where the action is, which is the actors in the play."
+    },
+    "claim_id": "01-c1",
+    "claim_type": "source_claim",
+    "claim": "Professional scenic and lighting designers tailor their work closely to the specific theatre space, considering factors like theatre type, size, and technical infrastructure, to ensure the set and lighting fit and support the actors and story.",
+    "source_title": "Andrew Cohen: A Behind the Scenes on Set Design",
+    "publisher_id": "music-city-review",
+    "kind": "feed",
+    "url": "https://www.musiccityreview.com/2026/10/07/andrew-cohen-a-behind-the-scenes-on-set-design",
+    "published_at": "2026-10-07T19:15:33Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:3624d3fe34ce08534487e31d",
+    "version_id": "85588df1b648a0348c275b3c",
+    "locator": {
+      "type": "text",
+      "quote": "Ultimately, for Poet, lighting design remains less about how many possibilities a fixture can offer than knowing which possibilities to use. Technology may have transformed the speed, flexibility and scale of the designer’s palette, but the fundamental questions remain remarkably consistent: What does the audience need to see? What do they need to feel? Where should the light come from – and, just as importantly, where should there be darkness?"
+    },
+    "claim_id": "01-c2",
+    "claim_type": "source_claim",
+    "claim": "Effective lighting design balances artistic goals with technical constraints by understanding the story, the spatial layout, and the desired audience focus, recognizing that elements like darkness and silence are as important as light.",
+    "source_title": "Bruno Poet: shaping light, story and the space between",
+    "publisher_id": "robe-uk",
+    "kind": "web",
+    "url": "https://www.robeuk.com/our-stories/bruno-poet-shaping-light-story-and-the-space-between",
+    "published_at": "2026-10-07",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:3624d3fe34ce08534487e31d",
+    "version_id": "85588df1b648a0348c275b3c",
+    "locator": {
+      "type": "text",
+      "quote": "Yet, for all the technology now available to a lighting designer, Poet’s approach remains rooted in some enduring principles: understand the story, understand the space, decide where the audience should look, and recognise that darkness and silence can be every bit as important as light."
+    },
+    "claim_id": "01-c2",
+    "claim_type": "source_claim",
+    "claim": "Effective lighting design balances artistic goals with technical constraints by understanding the story, the spatial layout, and the desired audience focus, recognizing that elements like darkness and silence are as important as light.",
+    "source_title": "Bruno Poet: shaping light, story and the space between",
+    "publisher_id": "robe-uk",
+    "kind": "web",
+    "url": "https://www.robeuk.com/our-stories/bruno-poet-shaping-light-story-and-the-space-between",
+    "published_at": "2026-10-07",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:0d498f62af12a14cae53d3ae",
+    "version_id": "671e941501c6758268581555",
+    "locator": {
+      "type": "text",
+      "quote": "“If you were doing a movie, you can do close shots and frame the audience’s attention that way. But in theater we have to do a lot of it with lighting and sound. So we rely a lot on the lighting designer to train the eye of the audience. But we also, in terms of sound, want to keep everything moving along and keep it cohesive.”"
+    },
+    "claim_id": "01-c3",
+    "claim_type": "source_claim",
+    "claim": "Sound and lighting designers in live theatre work to direct audience attention and maintain cohesion without the benefit of film techniques like close-ups, making real-time adjustments essential to performance impact.",
+    "source_title": "How Walter Trarbach Bridges the Gap Between Broadway's Golden Age and Schmigadoon!",
+    "publisher_id": "awards-radar",
+    "kind": "web",
+    "url": "https://awardsradar.com/2026/09/18/interview-walter-trarbach-schmigadoon",
+    "published_at": "2026-09-18T16:05:51Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:0d498f62af12a14cae53d3ae",
+    "version_id": "671e941501c6758268581555",
+    "locator": {
+      "type": "text",
+      "quote": "It is another part of what makes live theater so different from film. There is no opportunity to simply move the camera closer or cut around a problem. Everything has to happen in the room, in real time, and it goes both ways, with the audience participating in the experience. If you lose the audience’s energy, that reverberates back onto the stage."
+    },
+    "claim_id": "01-c3",
+    "claim_type": "source_claim",
+    "claim": "Sound and lighting designers in live theatre work to direct audience attention and maintain cohesion without the benefit of film techniques like close-ups, making real-time adjustments essential to performance impact.",
+    "source_title": "How Walter Trarbach Bridges the Gap Between Broadway's Golden Age and Schmigadoon!",
+    "publisher_id": "awards-radar",
+    "kind": "web",
+    "url": "https://awardsradar.com/2026/09/18/interview-walter-trarbach-schmigadoon",
+    "published_at": "2026-09-18T16:05:51Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:6d7f4ed3f7c16d017f20728e",
+    "version_id": "7cf1090639eed21826e0b56b",
+    "locator": {
+      "type": "text",
+      "quote": "At the heart of AuraLuxMuse are two key modules: Lighting-Aligned Music Pretraining (LAMP), which performs contrastive learning between audio and lighting cues for alignment, and Preference-Adaptive Mixture of Experts (PAMoE), which conditions preference-aware cue retrieval and adaptation on designers’ intent through a gated ensemble of style-specific expert networks. To support training and evaluation, we introduce Musilux, the first dataset of paired musical audio and professional lighting cue sequences under diverse performance scenarios. We evaluate AuraLuxMuse across both virtual simulation environments and professional-grade laboratories. Experimental results, including objective and subjective evaluation, demonstrate that AuraLuxMuse retrieves and adapts stage-lighting cues that are visually cohesive, semantically meaningful, and artistically expressive, showing its potential for AI-assisted aesthetic stage design."
+    },
+    "claim_id": "01-c4",
+    "claim_type": "source_claim",
+    "claim": "AI-assisted lighting design systems are emerging that model and automate stage lighting cue generation aligned to musical input using advanced deep learning, enabling retrieval and adaptation of lighting effects in a way that is visually cohesive and artistically expressive.",
+    "source_title": "AuraLuxMuse: Adaptive Fusion Modeling for Aesthetic Stage Lighting Design with Music and Expert Guidance",
+    "publisher_id": "auraluxmuse-authors",
+    "kind": "web",
+    "url": "https://arxiv.org/html/2610.11792",
+    "published_at": "2026-10-08",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:6d7f4ed3f7c16d017f20728e",
+    "version_id": "7cf1090639eed21826e0b56b",
+    "locator": {
+      "type": "text",
+      "quote": "Consequently, there is a compelling need for a system capable of modeling and automating the entire stage lighting design process. However, existing machine-learning systems typically restrict lighting control to basic properties such as light position and intensity, overlooking critical expressive dimensions including color, stylistic variation, and temporal rhythm. To the best of our knowledge, this topic has not been systematically explored under modern deep-learning paradigms. With advances in deep audio representation learning, it is now feasible to encode the latent structure of music in high-dimensional embedding spaces, providing a promising foundation for music-driven lighting synthesis. Three key challenges remain. The first is lack of structured parameterization: there is no standardized formulation for decomposing lighting attributes into learnable parameters. The second is multimodal alignment and personalization: learning effective correspondences between music and lighting remains difficult, particularly when integrating personalized and stylistic preferences. The third is the absence of comprehensive evaluation metrics: existing benchmarks fail to assess lighting quality in terms of both objective fidelity and subjective perception."
+    },
+    "claim_id": "01-c4",
+    "claim_type": "source_claim",
+    "claim": "AI-assisted lighting design systems are emerging that model and automate stage lighting cue generation aligned to musical input using advanced deep learning, enabling retrieval and adaptation of lighting effects in a way that is visually cohesive and artistically expressive.",
+    "source_title": "AuraLuxMuse: Adaptive Fusion Modeling for Aesthetic Stage Lighting Design with Music and Expert Guidance",
+    "publisher_id": "auraluxmuse-authors",
+    "kind": "web",
+    "url": "https://arxiv.org/html/2610.11792",
+    "published_at": "2026-10-08",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:6d7f4ed3f7c16d017f20728e",
+    "version_id": "7cf1090639eed21826e0b56b",
+    "locator": {
+      "type": "text",
+      "quote": "Figure 1. Procedure Comparison: Traditional Stage Lighting Design vs. AuraLuxMuse. Conventional pipelines require designers to manually decompose music into artistic components, then iteratively design cues, align timing, and input parameters into consoles. AuraLuxMuse accelerates this workflow through feature extraction, preference-conditioned retrieval, cue adaptation, and console dispatch.Comparison of a traditional manual stage-lighting workflow with the AuraLuxMuse workflow, from music input and artistic analysis to console-ready lighting output."
+    },
+    "claim_id": "01-c4",
+    "claim_type": "source_claim",
+    "claim": "AI-assisted lighting design systems are emerging that model and automate stage lighting cue generation aligned to musical input using advanced deep learning, enabling retrieval and adaptation of lighting effects in a way that is visually cohesive and artistically expressive.",
+    "source_title": "AuraLuxMuse: Adaptive Fusion Modeling for Aesthetic Stage Lighting Design with Music and Expert Guidance",
+    "publisher_id": "auraluxmuse-authors",
+    "kind": "web",
+    "url": "https://arxiv.org/html/2610.11792",
+    "published_at": "2026-10-08",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:3624d3fe34ce08534487e31d",
+    "version_id": "85588df1b648a0348c275b3c",
+    "locator": {
+      "type": "text",
+      "quote": "Ultimately, for Poet, lighting design remains less about how many possibilities a fixture can offer than knowing which possibilities to use. Technology may have transformed the speed, flexibility and scale of the designer’s palette, but the fundamental questions remain remarkably consistent: What does the audience need to see? What do they need to feel? Where should the light come from – and, just as importantly, where should there be darkness?"
+    },
+    "claim_id": "01-c5",
+    "claim_type": "inference",
+    "claim": "Despite technological advances and AI potentials, traditional lighting design principles remain crucial, and AI tools are supplementary, requiring human designers to interpret, adjust, and oversee outputs to maintain artistic integrity.",
+    "source_title": "Bruno Poet: shaping light, story and the space between",
+    "publisher_id": "robe-uk",
+    "kind": "web",
+    "url": "https://www.robeuk.com/our-stories/bruno-poet-shaping-light-story-and-the-space-between",
+    "published_at": "2026-10-07",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:6d7f4ed3f7c16d017f20728e",
+    "version_id": "7cf1090639eed21826e0b56b",
+    "locator": {
+      "type": "text",
+      "quote": "At the heart of AuraLuxMuse are two key modules: Lighting-Aligned Music Pretraining (LAMP), which performs contrastive learning between audio and lighting cues for alignment, and Preference-Adaptive Mixture of Experts (PAMoE), which conditions preference-aware cue retrieval and adaptation on designers’ intent through a gated ensemble of style-specific expert networks. To support training and evaluation, we introduce Musilux, the first dataset of paired musical audio and professional lighting cue sequences under diverse performance scenarios. We evaluate AuraLuxMuse across both virtual simulation environments and professional-grade laboratories. Experimental results, including objective and subjective evaluation, demonstrate that AuraLuxMuse retrieves and adapts stage-lighting cues that are visually cohesive, semantically meaningful, and artistically expressive, showing its potential for AI-assisted aesthetic stage design."
+    },
+    "claim_id": "01-c5",
+    "claim_type": "inference",
+    "claim": "Despite technological advances and AI potentials, traditional lighting design principles remain crucial, and AI tools are supplementary, requiring human designers to interpret, adjust, and oversee outputs to maintain artistic integrity.",
+    "source_title": "AuraLuxMuse: Adaptive Fusion Modeling for Aesthetic Stage Lighting Design with Music and Expert Guidance",
+    "publisher_id": "auraluxmuse-authors",
+    "kind": "web",
+    "url": "https://arxiv.org/html/2610.11792",
+    "published_at": "2026-10-08",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:6d7f4ed3f7c16d017f20728e",
+    "version_id": "7cf1090639eed21826e0b56b",
+    "locator": {
+      "type": "text",
+      "quote": "Figure 1. Procedure Comparison: Traditional Stage Lighting Design vs. AuraLuxMuse. Conventional pipelines require designers to manually decompose music into artistic components, then iteratively design cues, align timing, and input parameters into consoles. AuraLuxMuse accelerates this workflow through feature extraction, preference-conditioned retrieval, cue adaptation, and console dispatch.Comparison of a traditional manual stage-lighting workflow with the AuraLuxMuse workflow, from music input and artistic analysis to console-ready lighting output."
+    },
+    "claim_id": "01-c5",
+    "claim_type": "inference",
+    "claim": "Despite technological advances and AI potentials, traditional lighting design principles remain crucial, and AI tools are supplementary, requiring human designers to interpret, adjust, and oversee outputs to maintain artistic integrity.",
+    "source_title": "AuraLuxMuse: Adaptive Fusion Modeling for Aesthetic Stage Lighting Design with Music and Expert Guidance",
+    "publisher_id": "auraluxmuse-authors",
+    "kind": "web",
+    "url": "https://arxiv.org/html/2610.11792",
+    "published_at": "2026-10-08",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "podcast:567edcfb2aa6bc0d16950da3",
+    "version_id": "5467dabfb6770dd32005b771",
+    "locator": {
+      "type": "segment",
+      "segment_id": "s00041"
+    },
+    "start_seconds": 134.72,
+    "claim_id": "01-c5",
+    "claim_type": "inference",
+    "claim": "Despite technological advances and AI potentials, traditional lighting design principles remain crucial, and AI tools are supplementary, requiring human designers to interpret, adjust, and oversee outputs to maintain artistic integrity.",
+    "source_title": "LIGHT TALK Episode 495 - \"Two Steps Ahead - Our Conversation with Lighting Designer, Cory Pattak\"",
+    "publisher_id": "light-talk",
+    "kind": "podcast",
+    "url": "https://lighttalk.libsyn.com/light-talk-episode-495-two-steps-ahead-our-conversation-with-lighting-designer-cory-pattak",
+    "published_at": "2026-09-30T04:00:00Z",
+    "transcription_verified": false
+  },
+  {
+    "item_id": "youtube:mYCm3Hv8vOU",
+    "version_id": "6e6f386967c9614ebf1d7446",
+    "locator": {
+      "type": "segment",
+      "segment_id": "s00019"
+    },
+    "start_seconds": 65.04,
+    "claim_id": "01-c6",
+    "claim_type": "source_claim",
+    "claim": "The typical scenic design process starts with multiple readings of the script from different perspectives and iterations including rehearsals, collaboration with directors, and technical adjustments to create immersive and adaptable environments.",
+    "source_title": "Behind the set design | Bacchae Schools Tour | National Theatre",
+    "publisher_id": "national-theatre",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/watch?v=mYCm3Hv8vOU",
+    "published_at": "2026-10-14T16:12:15Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "youtube:mYCm3Hv8vOU",
+    "version_id": "6e6f386967c9614ebf1d7446",
+    "locator": {
+      "type": "segment",
+      "segment_id": "s00060"
+    },
+    "start_seconds": 197.84,
+    "claim_id": "01-c6",
+    "claim_type": "source_claim",
+    "claim": "The typical scenic design process starts with multiple readings of the script from different perspectives and iterations including rehearsals, collaboration with directors, and technical adjustments to create immersive and adaptable environments.",
+    "source_title": "Behind the set design | Bacchae Schools Tour | National Theatre",
+    "publisher_id": "national-theatre",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/watch?v=mYCm3Hv8vOU",
+    "published_at": "2026-10-14T16:12:15Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:8416a3a5474db61fa89e7d51",
+    "version_id": "c06f5a1afafe906d47a44dbe",
+    "locator": {
+      "type": "text",
+      "quote": "AC: My typical process is usually the same across the board. I’ll get the script and I’ll read it. Usually for fun, but I also write down some stuff that I will want to remember, any important stage directions, or anything a character says about where they are or what they’re about to do or where they’re going that may not be in the stage directions. Sometimes that is left out of the stage directions and something happens with what a character says. So I’ll read the script and I’ll jot down some notes and then I’ll talk with the director. We’ll have a conversation about how we want to approach it, what do we think it looks like, and how does it work? I might get into a little more specifics at the time, like “ I was thinking the front door is on the right side of the stage? Do you agree with that?” You know, some of these basic questions like,”How do we want this play to flow?” Then maybe, depending on the play and how– I don’t want to say straightforward– but straightforward, the play or the musical is, I may have some research I’ve already pulled that I found, of what I think the set or location may look like. A lot of inspiration, period research and stuff like that, just to have some things to show the director and for us to say “Oh, it looks more like this thing and not like that thing,” which is really helpful because then I could gather more of this idea to really supplement what I’m going to do with it."
+    },
+    "claim_id": "01-c6",
+    "claim_type": "source_claim",
+    "claim": "The typical scenic design process starts with multiple readings of the script from different perspectives and iterations including rehearsals, collaboration with directors, and technical adjustments to create immersive and adaptable environments.",
+    "source_title": "Andrew Cohen: A Behind the Scenes on Set Design",
+    "publisher_id": "music-city-review",
+    "kind": "feed",
+    "url": "https://www.musiccityreview.com/2026/10/07/andrew-cohen-a-behind-the-scenes-on-set-design",
+    "published_at": "2026-10-07T19:15:33Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:8416a3a5474db61fa89e7d51",
+    "version_id": "c06f5a1afafe906d47a44dbe",
+    "locator": {
+      "type": "text",
+      "quote": "AC: It’s a very true statement with many set designers that we’re only as good as the people we work with. I can create something beautiful, but I need the people to help bring it to life. When people sit down, they’re really enthralled with the story and the actors. Maybe some people sit back and they can recognize, “Oh, there’s a really intricate set and there’s a really intricate costumes and the lighting, it’s really great and it sounds amazing,” but there’s also people behind that too, who are running the show and backstage making the scene changes happen. And then outside of that are the people that I really love, which is the people who help bring the dream to life, the people the scene shops and the painters and the prop people and all everyone in between. There are so many people behind the curtain that are making this thing into what you see. It’s  grandeur and amazingness and a lot of hard work and a lot of time. It’s both good and bad that it gets maybe unnoticed a little bit. It’s good that we’ve done our job so well that people are taken to a new world and don’t think about anything but the show. It’s amazing, but it’s good to appreciate all these people who have put in all this time and blood, sweat, and tears to make this thing happen. I’m always really appreciative of those people and I hope that our audience members, maybe when they’re a couple days after the show, when they’ve stopped thinking about the characters and their favorite songs, can say “Oh, that was really great on a technical level, a really great show, and I wonder how many people did this.” I think that’s the thing, there’s a lot of artisans that need their cheering as well."
+    },
+    "claim_id": "01-c7",
+    "claim_type": "source_claim",
+    "claim": "Lighting designers often see collaboration as fundamental, requiring communication with set designers, directors, and technicians to build and maintain schedules and teams to realize the design vision effectively.",
+    "source_title": "Andrew Cohen: A Behind the Scenes on Set Design",
+    "publisher_id": "music-city-review",
+    "kind": "feed",
+    "url": "https://www.musiccityreview.com/2026/10/07/andrew-cohen-a-behind-the-scenes-on-set-design",
+    "published_at": "2026-10-07T19:15:33Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "youtube:AFofc1miSRg",
+    "version_id": "4c8c1aeb6420c227d0d95eba",
+    "locator": {
+      "type": "segment",
+      "segment_id": "s01800"
+    },
+    "start_seconds": 2297.76,
+    "claim_id": "01-c7",
+    "claim_type": "source_claim",
+    "claim": "Lighting designers often see collaboration as fundamental, requiring communication with set designers, directors, and technicians to build and maintain schedules and teams to realize the design vision effectively.",
+    "source_title": "Lighting Design & Career Sustainability in Theatre and Live Events: Josh Selander | Anna Robb",
+    "publisher_id": "anna-robb",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/watch?v=AFofc1miSRg",
+    "published_at": "2026-10-03T03:36:29Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:8416a3a5474db61fa89e7d51",
+    "version_id": "c06f5a1afafe906d47a44dbe",
+    "locator": {
+      "type": "text",
+      "quote": "AC: All the theaters are so unique. And it depends on what type of theater it is. When I say that, I mean, is it a grid theater that has a fixed grid above, or is it a fly house that has a fly rail where you could bring scenery in and out from above? Is it in the round? Is it alley? Most designers would say they design for the space. You’re designing for the play, of course, but you also design for the space. What I mean by that is the size of the theater. An Importance of Being Earnest on an 80 foot wide theater is going to look very different from an Importance of Being Earnest that’s in a 20 foot wide thrust theater. You also want to fit the space, the set wants to fit nicely in the space as well. And with all that being said, the goal for us is always to focus on the actors. So a lot of the time in these bigger theaters, our goal is to focus in, to really keep our eye where the action is, which is the actors in the play."
+    },
+    "claim_id": "01-c8",
+    "claim_type": "inference",
+    "claim": "Beginners in scenic and lighting design benefit from scaffolds that highlight story-driven lighting choices, spatial awareness, iterative collaboration, and an understanding of how emerging AI tools can support but not replace artistic decisions.",
+    "source_title": "Andrew Cohen: A Behind the Scenes on Set Design",
+    "publisher_id": "music-city-review",
+    "kind": "feed",
+    "url": "https://www.musiccityreview.com/2026/10/07/andrew-cohen-a-behind-the-scenes-on-set-design",
+    "published_at": "2026-10-07T19:15:33Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:3624d3fe34ce08534487e31d",
+    "version_id": "85588df1b648a0348c275b3c",
+    "locator": {
+      "type": "text",
+      "quote": "Ultimately, for Poet, lighting design remains less about how many possibilities a fixture can offer than knowing which possibilities to use. Technology may have transformed the speed, flexibility and scale of the designer’s palette, but the fundamental questions remain remarkably consistent: What does the audience need to see? What do they need to feel? Where should the light come from – and, just as importantly, where should there be darkness?"
+    },
+    "claim_id": "01-c8",
+    "claim_type": "inference",
+    "claim": "Beginners in scenic and lighting design benefit from scaffolds that highlight story-driven lighting choices, spatial awareness, iterative collaboration, and an understanding of how emerging AI tools can support but not replace artistic decisions.",
+    "source_title": "Bruno Poet: shaping light, story and the space between",
+    "publisher_id": "robe-uk",
+    "kind": "web",
+    "url": "https://www.robeuk.com/our-stories/bruno-poet-shaping-light-story-and-the-space-between",
+    "published_at": "2026-10-07",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:6d7f4ed3f7c16d017f20728e",
+    "version_id": "7cf1090639eed21826e0b56b",
+    "locator": {
+      "type": "text",
+      "quote": "At the heart of AuraLuxMuse are two key modules: Lighting-Aligned Music Pretraining (LAMP), which performs contrastive learning between audio and lighting cues for alignment, and Preference-Adaptive Mixture of Experts (PAMoE), which conditions preference-aware cue retrieval and adaptation on designers’ intent through a gated ensemble of style-specific expert networks. To support training and evaluation, we introduce Musilux, the first dataset of paired musical audio and professional lighting cue sequences under diverse performance scenarios. We evaluate AuraLuxMuse across both virtual simulation environments and professional-grade laboratories. Experimental results, including objective and subjective evaluation, demonstrate that AuraLuxMuse retrieves and adapts stage-lighting cues that are visually cohesive, semantically meaningful, and artistically expressive, showing its potential for AI-assisted aesthetic stage design."
+    },
+    "claim_id": "01-c8",
+    "claim_type": "inference",
+    "claim": "Beginners in scenic and lighting design benefit from scaffolds that highlight story-driven lighting choices, spatial awareness, iterative collaboration, and an understanding of how emerging AI tools can support but not replace artistic decisions.",
+    "source_title": "AuraLuxMuse: Adaptive Fusion Modeling for Aesthetic Stage Lighting Design with Music and Expert Guidance",
+    "publisher_id": "auraluxmuse-authors",
+    "kind": "web",
+    "url": "https://arxiv.org/html/2610.11792",
+    "published_at": "2026-10-08",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "podcast:567edcfb2aa6bc0d16950da3",
+    "version_id": "5467dabfb6770dd32005b771",
+    "locator": {
+      "type": "segment",
+      "segment_id": "s00041"
+    },
+    "start_seconds": 134.72,
+    "claim_id": "01-c8",
+    "claim_type": "inference",
+    "claim": "Beginners in scenic and lighting design benefit from scaffolds that highlight story-driven lighting choices, spatial awareness, iterative collaboration, and an understanding of how emerging AI tools can support but not replace artistic decisions.",
+    "source_title": "LIGHT TALK Episode 495 - \"Two Steps Ahead - Our Conversation with Lighting Designer, Cory Pattak\"",
+    "publisher_id": "light-talk",
+    "kind": "podcast",
+    "url": "https://lighttalk.libsyn.com/light-talk-episode-495-two-steps-ahead-our-conversation-with-lighting-designer-cory-pattak",
+    "published_at": "2026-09-30T04:00:00Z",
+    "transcription_verified": false
+  },
+  {
+    "item_id": "podcast:d55febaa1eadde3187c0e46f",
+    "version_id": "01f8e9613a96535cb56a71a0",
+    "locator": {
+      "type": "segment",
+      "segment_id": "s00079"
+    },
+    "start_seconds": 492.86,
+    "claim_id": "01-c8",
+    "claim_type": "inference",
+    "claim": "Beginners in scenic and lighting design benefit from scaffolds that highlight story-driven lighting choices, spatial awareness, iterative collaboration, and an understanding of how emerging AI tools can support but not replace artistic decisions.",
+    "source_title": "204. Bonus episode: Designer Tom Scutt on having three musical revivals in the West End",
+    "publisher_id": "whatsonstage",
+    "kind": "podcast",
+    "url": "https://shows.acast.com/as-the-actress-said-to-the-critic/episodes/204-bonus-episode-designer-tom-scutt-on-having-three-musical",
+    "published_at": "2026-09-23T14:56:36Z",
+    "transcription_verified": false
+  },
+  {
+    "item_id": "article:0d498f62af12a14cae53d3ae",
+    "version_id": "671e941501c6758268581555",
+    "locator": {
+      "type": "text",
+      "quote": "“It’s such a crazy thing. I think it’s a wild job because sound design barely even exists. It only happens when the show is happening, right? And for most of the show, we’re not making sound. We’re just taking the sound that everybody else makes, all the performers, and then we basically just set the relative volumes of it and send it out to the speakers to the audience at relative volume levels depending where they’re sitting and what they need.”"
+    },
+    "claim_id": "01-c9",
+    "claim_type": "source_claim",
+    "claim": "Sound design is evolving to facilitate more sensitive actor performances via technology like microphones, while preserving an authentic, non-produced sound to maintain theatrical intimacy.",
+    "source_title": "How Walter Trarbach Bridges the Gap Between Broadway's Golden Age and Schmigadoon!",
+    "publisher_id": "awards-radar",
+    "kind": "web",
+    "url": "https://awardsradar.com/2026/09/18/interview-walter-trarbach-schmigadoon",
+    "published_at": "2026-09-18T16:05:51Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:0d498f62af12a14cae53d3ae",
+    "version_id": "671e941501c6758268581555",
+    "locator": {
+      "type": "text",
+      "quote": "“I think the microphone has actually helped actors give a lot more sensitive performances, which is a great thing about it,” said Trarbach. “But we made the design decision early on that we didn’t want it to sound produced or slick or like a modern musical sound. We wanted it to be very open and expansive and focus on just what the performers were doing and presenting that to the audience.”"
+    },
+    "claim_id": "01-c9",
+    "claim_type": "source_claim",
+    "claim": "Sound design is evolving to facilitate more sensitive actor performances via technology like microphones, while preserving an authentic, non-produced sound to maintain theatrical intimacy.",
+    "source_title": "How Walter Trarbach Bridges the Gap Between Broadway's Golden Age and Schmigadoon!",
+    "publisher_id": "awards-radar",
+    "kind": "web",
+    "url": "https://awardsradar.com/2026/09/18/interview-walter-trarbach-schmigadoon",
+    "published_at": "2026-09-18T16:05:51Z",
+    "transcription_verified": null
+  },
+  {
+    "item_id": "article:0d498f62af12a14cae53d3ae",
+    "version_id": "671e941501c6758268581555",
+    "locator": {
+      "type": "text",
+      "quote": "It is another part of what makes live theater so different from film. There is no opportunity to simply move the camera closer or cut around a problem. Everything has to happen in the room, in real time, and it goes both ways, with the audience participating in the experience. If you lose the audience’s energy, that reverberates back onto the stage."
+    },
+    "claim_id": "01-c10",
+    "claim_type": "source_claim",
+    "claim": "Live theatre's necessity for designs that function in real-time and engage the audience dynamically creates unique challenges and creative opportunities distinct from film or recorded media.",
+    "source_title": "How Walter Trarbach Bridges the Gap Between Broadway's Golden Age and Schmigadoon!",
+    "publisher_id": "awards-radar",
+    "kind": "web",
+    "url": "https://awardsradar.com/2026/09/18/interview-walter-trarbach-schmigadoon",
+    "published_at": "2026-09-18T16:05:51Z",
+    "transcription_verified": null
+  }
+]

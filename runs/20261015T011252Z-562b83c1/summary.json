@@ -1,0 +1,91 @@
+{
+  "run_id": "20261015T011252Z-562b83c1",
+  "as_of_date": "2026-10-15",
+  "mode": "collection_only",
+  "status": "failed",
+  "counts": {
+    "discovered": 84,
+    "extracted": 72,
+    "new": 70,
+    "changed": 0,
+    "unchanged": 2,
+    "eligible": 72,
+    "excluded": 0,
+    "accepted": null,
+    "rejected": null,
+    "deferred": null,
+    "articles": null,
+    "video_scripts": null
+  },
+  "coverage": {
+    "by_kind": {
+      "feed": 68,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "independent_publishers": 7,
+    "duplicate_observations": 0
+  },
+  "failed_or_incomplete_stages": [
+    {
+      "stage": "extract",
+      "exit_code": 1
+    },
+    {
+      "stage": "extract_content",
+      "status": "incomplete",
+      "errors": [
+        "podcast:aca132ed9c9ad61063d87f29: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:7474854e6734eae2f1ae6ccf: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:a51ac34198053148dae83076: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:2ee723ac3b8762f6bfc9d737: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:08f016bd0c831556caad58c6: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:6d1aa9c7460fdf4989ad3ed3: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:8b532a4f6b2eecacbdfc046c: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:e0798f010cd124c8c6f54bff: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:c4cabeae50131c7ae708ca0d: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:2a822574ebc8a90120a80a07: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:bb99c835cfdd7d2cf3d1b76c: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+        "podcast:faafaba3473911638d7aafb3: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required"
+      ],
+      "note": "Historical errors; remaining candidates have not been retried after transcription tools became available."
+    }
+  ],
+  "recovered_collection_items": 3,
+  "unresolved_collection_items": 12,
+  "tools": [
+    "curl audio + ffmpeg + whisper.cpp",
+    "python:datetime",
+    "python:json",
+    "python:sqlite3",
+    "python:xml.etree.ElementTree",
+    "requests (curl failed: curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030E) - No credentials are available in the security package)",
+    "yt-dlp",
+    "yt-dlp audio + ffmpeg + whisper.cpp",
+    "yt-dlp captions"
+  ],
+  "known_cost_usd": 0,
+  "unknown_cost_stages": [
+    "extract_content",
+    "extract_content",
+    "extract_content",
+    "extract_content",
+    "fetch_feeds",
+    "fetch_podcasts",
+    "fetch_youtube",
+    "filter_items",
+    "filter_items",
+    "store_upsert",
+    "store_upsert",
+    "store_upsert",
+    "store_upsert",
+    "summarize_run",
+    "summarize_run"
+  ],
+  "finished_at": "2026-10-15T01:56:51Z",
+  "remaining_manual_actions": [
+    "Review ASR passages against the recordings and decide whether to transcribe the other recent podcast candidates",
+    "Implement editorial selection, briefs, drafts, checks, human review, and publication package",
+    "Publish three Substack articles and three YouTube videos"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "fetch_web",
+  "status": "completed",
+  "input_count": 6,
+  "output_count": 6,
+  "started_at": "2026-10-15T02:35:03Z",
+  "finished_at": "2026-10-15T02:35:16Z",
+  "tools": [
+    "curl"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

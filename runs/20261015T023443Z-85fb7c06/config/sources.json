@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "music-city-review-feed",
+    "publisher_id": "music-city-review",
+    "kind": "feed",
+    "url": "https://www.musiccityreview.com/feed/",
+    "verification_status": "feed_endpoint_unconfirmed"
+  },
+  {
+    "source_id": "gremlins-feed",
+    "publisher_id": "the-gremlins",
+    "kind": "feed",
+    "url": "https://thegremlins.substack.com/feed"
+  },
+  {
+    "source_id": "wallpaper-feed",
+    "publisher_id": "wallpaper",
+    "kind": "feed",
+    "url": "https://feeds.feedburner.com/Wallpaperfeed"
+  },
+  {
+    "source_id": "live-design-feed",
+    "publisher_id": "live-design",
+    "kind": "feed",
+    "url": "https://www.livedesignonline.com/rss.xml"
+  },
+  {
+    "source_id": "abt-neoclassical-works-video",
+    "publisher_id": "american-ballet-theatre",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/watch?v=IxylEPM9YE8"
+  },
+  {
+    "source_id": "wicked-stage-manager-video",
+    "publisher_id": "wicked-the-musical",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/watch?v=FEVb6tgzJ40"
+  },
+  {
+    "source_id": "whatsonstage-podcast-feed",
+    "publisher_id": "whatsonstage",
+    "kind": "podcast",
+    "url": "https://feeds.acast.com/public/shows/as-the-actress-said-to-the-critic",
+    "title_include_regex": "scenic|lighting|set design|designer tom scutt"
+  },
+  {
+    "source_id": "light-talk-podcast-feed",
+    "publisher_id": "light-talk",
+    "kind": "podcast",
+    "url": "https://rss.libsyn.com/shows/97669/destinations/506556.xml",
+    "title_include_regex": "lighting designer|scenic designer|set designer"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "stage": "extract_content",
+  "status": "incomplete",
+  "input_count": 84,
+  "output_count": 69,
+  "started_at": "2026-10-15T01:13:19Z",
+  "finished_at": "2026-10-15T01:15:34Z",
+  "tools": [
+    "requests (curl failed: curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030E) - No credentials are available in the security package)",
+    "yt-dlp captions"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": [
+    "youtube:FEVb6tgzJ40: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:aca132ed9c9ad61063d87f29: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:7474854e6734eae2f1ae6ccf: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:a51ac34198053148dae83076: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:2ee723ac3b8762f6bfc9d737: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:08f016bd0c831556caad58c6: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:6d1aa9c7460fdf4989ad3ed3: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:d55febaa1eadde3187c0e46f: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:8b532a4f6b2eecacbdfc046c: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:e0798f010cd124c8c6f54bff: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:c4cabeae50131c7ae708ca0d: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:2a822574ebc8a90120a80a07: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:567edcfb2aa6bc0d16950da3: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:bb99c835cfdd7d2cf3d1b76c: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required",
+    "podcast:faafaba3473911638d7aafb3: No transcript found; WHISPER_MODEL, ffmpeg, and whisper.cpp are required"
+  ]
+}

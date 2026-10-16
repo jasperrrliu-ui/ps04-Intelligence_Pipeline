@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">PS04: a rolling stage-design research and publication pipeline</title>
+  <desc id="desc">A simple overview of the project theme, sources, normalization, orchestration, evidence-based article generation, two runs, and three article angles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#19283d"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#76dfcb"/><stop offset="1" stop-color="#a7caff"/></linearGradient>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#8196b1"/></marker>
+    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.eyebrow{font-size:14px;font-weight:700;letter-spacing:1.5px;fill:#7fe0cf}.title{font-size:37px;font-weight:700;fill:#f4f7fb}.theme{font-size:20px;font-weight:600;fill:#e9eff8}.body{font-size:15px;fill:#bdc9d9}.muted{font-size:13px;fill:#91a3bb}.card{fill:#202f45;stroke:#344961;stroke-width:1.2}.step{font-size:13px;font-weight:700;letter-spacing:1.2px;fill:#7fe0cf}.head{font-size:19px;font-weight:700;fill:#f2f6fb}.pill{font-size:13px;font-weight:700;fill:#d7e6f5}.foot{font-size:14px;fill:#b5c3d5}</style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <g class="s">
+    <text x="80" y="65" class="eyebrow">MIT 1.125 · PROBLEM SET 4</text>
+    <text x="80" y="115" class="title">A rolling research-to-publication pipeline</text>
+    <rect x="80" y="145" width="1440" height="130" rx="18" fill="#1d3043" stroke="#36556a"/>
+    <text x="108" y="181" class="eyebrow">PROJECT THEME</text>
+    <text x="108" y="216" class="theme">Help theatre and musical fans without design training understand how professionals shape stage space and light,</text>
+    <text x="108" y="246" class="theme">what beginners need to learn, and where AI could responsibly support a future text-driven stage-design app.</text>
+
+    <text x="80" y="320" class="step">SOURCES · FIXED, CURATED ENDPOINTS</text>
+    <rect x="80" y="338" width="445" height="99" rx="14" class="card"/>
+    <rect x="101" y="356" width="78" height="27" rx="13" fill="#315663"/><text x="140" y="375" text-anchor="middle" class="pill">RSS</text>
+    <text x="195" y="376" class="head">Articles and feed URLs</text>
+    <text x="101" y="410" class="body">Feed discovers items; curl fetches article text.</text>
+
+    <rect x="578" y="338" width="445" height="99" rx="14" class="card"/>
+    <rect x="599" y="356" width="104" height="27" rx="13" fill="#454260"/><text x="651" y="375" text-anchor="middle" class="pill">YOUTUBE</text>
+    <text x="719" y="376" class="head">Configured videos</text>
+    <text x="599" y="410" class="body">Captions first; audio + Whisper fallback.</text>
+
+    <rect x="1076" y="338" width="444" height="99" rx="14" class="card"/>
+    <rect x="1097" y="356" width="113" height="27" rx="13" fill="#5a4a35"/><text x="1153" y="375" text-anchor="middle" class="pill">PODCAST</text>
+    <text x="1226" y="376" class="head">Episode feeds</text>
+    <text x="1097" y="410" class="body">RSS enclosure → transcript or audio + Whisper.</text>
+
+    <path d="M300 448V477" stroke="#8196b1" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M800 448V477" stroke="#8196b1" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M1298 448V477" stroke="#8196b1" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+    <text x="80" y="510" class="step">ONE PIPELINE · SAME ORDER EVERY RUN</text>
+    <rect x="80" y="530" width="258" height="155" rx="15" class="card"/>
+    <text x="104" y="565" class="head">1 · Collect</text>
+    <text x="104" y="598" class="body">Fetch configured feeds, video</text><text x="104" y="620" class="body">metadata, transcripts or audio.</text>
+    <text x="104" y="654" class="muted">Bash entry: run.sh</text>
+
+    <path d="M344 608H366" stroke="#8196b1" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <rect x="374" y="530" width="258" height="155" rx="15" class="card"/>
+    <text x="398" y="565" class="head">2 · Normalize + store</text>
+    <text x="398" y="598" class="body">Common IDs, publisher, date,</text><text x="398" y="620" class="body">URL, text, timestamped segments.</text>
+    <text x="398" y="654" class="muted">JSONL handoffs + versioned SQLite</text>
+
+    <path d="M638 608H660" stroke="#8196b1" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <rect x="668" y="530" width="258" height="155" rx="15" class="card"/>
+    <text x="692" y="565" class="head">3 · Filter + select</text>
+    <text x="692" y="598" class="body">Recheck the rolling 30-day</text><text x="692" y="620" class="body">window; dedupe and shortlist.</text>
+    <text x="692" y="654" class="muted">Model records accept / reject / defer</text>
+
+    <path d="M932 608H954" stroke="#8196b1" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <rect x="962" y="530" width="258" height="155" rx="15" class="card"/>
+    <text x="986" y="565" class="head">4 · Create + check</text>
+    <text x="986" y="598" class="body">Evidence → 3 briefs → 3 articles</text><text x="986" y="620" class="body">and 3 video scripts; run checks.</text>
+    <text x="986" y="654" class="muted">Human reviews and approves</text>
+
+    <path d="M1226 608H1248" stroke="#8196b1" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <rect x="1256" y="530" width="264" height="155" rx="15" class="card"/>
+    <text x="1280" y="565" class="head">5 · Publish + repeat</text>
+    <text x="1280" y="598" class="body">Package and publish article /</text><text x="1280" y="620" class="body">video pairs; run again later.</text>
+    <text x="1280" y="654" class="muted">Feed backfill; same source snapshots</text>
+
+    <rect x="80" y="714" width="690" height="116" rx="15" fill="#1d3043" stroke="#36556a"/>
+    <text x="104" y="749" class="step">TWO LIVE RUNS · DIFFERENT UTC DATES</text>
+    <text x="104" y="783" class="body">Oct 15 baseline → Oct 16: 6 new · 23 changed · 49 unchanged.</text>
+    <text x="104" y="808" class="muted">Each run has its own as-of date; the rolling window moves forward.</text>
+
+    <rect x="795" y="714" width="725" height="116" rx="15" fill="#1d3043" stroke="#36556a"/>
+    <text x="819" y="749" class="step">THREE ARTICLE ANGLES · SAME EVIDENCE BASE</text>
+    <text x="819" y="783" class="body">1 Professional design process  ·  2 Beginner learning scaffolds</text>
+    <text x="819" y="808" class="body">3 AI app implications and responsible product boundaries</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "stage": "select_items",
+  "status": "incomplete",
+  "input_count": 86,
+  "output_count": 0,
+  "started_at": "2026-10-16T01:42:06Z",
+  "finished_at": "2026-10-16T01:42:07Z",
+  "tools": [],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": [
+    "Responses API HTTP 401: {\n  \"error\": {\n    \"message\": \"Incorrect API key provided: sk-proj-**************************************************************************************************************************************qcMA. You can find your API key at https://platform.openai.com/account/api-keys.\",\n    \"type\": \"invalid_request_error\",\n    \"code\": \"invalid_api_key\",\n    \"param\": null\n  },\n  \"status\": 401\n}"
+  ]
+}

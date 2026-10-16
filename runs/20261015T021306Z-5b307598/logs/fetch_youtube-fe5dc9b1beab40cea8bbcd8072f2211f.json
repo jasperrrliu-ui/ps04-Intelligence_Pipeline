@@ -1,0 +1,17 @@
+{
+  "stage": "fetch_youtube",
+  "status": "incomplete",
+  "input_count": 2,
+  "output_count": 0,
+  "started_at": "2026-10-15T02:13:12Z",
+  "finished_at": "2026-10-15T02:13:12Z",
+  "tools": [
+    "yt-dlp"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": [
+    "abt-neoclassical-works-video: C:\\Python314\\python.exe: No module named yt_dlp",
+    "wicked-stage-manager-video: C:\\Python314\\python.exe: No module named yt_dlp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stage": "fetch_podcasts",
+  "status": "completed",
+  "input_count": 2,
+  "output_count": 2,
+  "started_at": "2026-10-15T02:45:46Z",
+  "finished_at": "2026-10-15T02:45:47Z",
+  "tools": [
+    "curl",
+    "python:xml.etree.ElementTree"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "summarize_run",
+  "status": "completed",
+  "input_count": 48,
+  "output_count": 1,
+  "started_at": "2026-10-16T02:05:27Z",
+  "finished_at": "2026-10-16T02:05:27Z",
+  "tools": [
+    "python:json"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

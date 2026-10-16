@@ -1,0 +1,14 @@
+{
+  "stage": "create_briefs",
+  "status": "completed",
+  "input_count": 86,
+  "output_count": 3,
+  "started_at": "2026-10-16T01:50:21Z",
+  "finished_at": "2026-10-16T01:50:22Z",
+  "tools": [
+    "OpenAI Responses API:gpt-4.1-mini"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

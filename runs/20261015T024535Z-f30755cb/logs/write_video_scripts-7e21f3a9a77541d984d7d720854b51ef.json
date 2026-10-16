@@ -1,0 +1,14 @@
+{
+  "stage": "write_video_scripts",
+  "status": "incomplete",
+  "input_count": 3,
+  "output_count": 0,
+  "started_at": "2026-10-15T02:52:13Z",
+  "finished_at": "2026-10-15T02:52:13Z",
+  "tools": [],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": [
+    "Text quote not found in retained source"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "review_id": "d6059088001ca2b8e912bdb891642e60",
+  "assets": [
+    {
+      "piece_id": "01",
+      "type": "article",
+      "path": "runs/20261015T024535Z-f30755cb/package/articles/01.md"
+    },
+    {
+      "piece_id": "01",
+      "type": "video_script",
+      "path": "runs/20261015T024535Z-f30755cb/package/video_scripts/01.md"
+    },
+    {
+      "piece_id": "01",
+      "type": "source_notes",
+      "path": "runs/20261015T024535Z-f30755cb/package/source_notes/01.json"
+    },
+    {
+      "piece_id": "02",
+      "type": "article",
+      "path": "runs/20261015T024535Z-f30755cb/package/articles/02.md"
+    },
+    {
+      "piece_id": "02",
+      "type": "video_script",
+      "path": "runs/20261015T024535Z-f30755cb/package/video_scripts/02.md"
+    },
+    {
+      "piece_id": "02",
+      "type": "source_notes",
+      "path": "runs/20261015T024535Z-f30755cb/package/source_notes/02.json"
+    },
+    {
+      "piece_id": "03",
+      "type": "article",
+      "path": "runs/20261015T024535Z-f30755cb/package/articles/03.md"
+    },
+    {
+      "piece_id": "03",
+      "type": "video_script",
+      "path": "runs/20261015T024535Z-f30755cb/package/video_scripts/03.md"
+    },
+    {
+      "piece_id": "03",
+      "type": "source_notes",
+      "path": "runs/20261015T024535Z-f30755cb/package/source_notes/03.json"
+    }
+  ],
+  "publication_links_path": "runs/20261015T024535Z-f30755cb/package/publication_links.json",
+  "manual_steps": [
+    "Produce three videos in Google Vids or HeyGen from the scripts",
+    "Publish three Substack articles and three YouTube videos",
+    "Link each article and video, verify access, and update publication_links.json"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "review_id": "357436b36f3a17dae41062b15447cc52",
+  "passed": true,
+  "issues": [
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00041"
+    },
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00041"
+    },
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Verify ASR passage against original media: podcast:d55febaa1eadde3187c0e46f s00079"
+    },
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Check article length against the 600–900 word target; Chinese word counting needs human review"
+    },
+    {
+      "severity": "warning",
+      "artifact": "01",
+      "explanation": "Check video narration against the 3–5 minute target"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00041"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00041"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Verify ASR passage against original media: podcast:d55febaa1eadde3187c0e46f s00027"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Verify ASR passage against original media: podcast:d55febaa1eadde3187c0e46f s00079"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Verify ASR passage against original media: podcast:d55febaa1eadde3187c0e46f s00079"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00041"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00557"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00607"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Check article length against the 600–900 word target; Chinese word counting needs human review"
+    },
+    {
+      "severity": "warning",
+      "artifact": "02",
+      "explanation": "Check video narration against the 3–5 minute target"
+    },
+    {
+      "severity": "warning",
+      "artifact": "03",
+      "explanation": "Verify ASR passage against original media: podcast:d55febaa1eadde3187c0e46f s00027"
+    },
+    {
+      "severity": "warning",
+      "artifact": "03",
+      "explanation": "Verify ASR passage against original media: podcast:567edcfb2aa6bc0d16950da3 s00041"
+    },
+    {
+      "severity": "warning",
+      "artifact": "03",
+      "explanation": "Verify ASR passage against original media: podcast:d55febaa1eadde3187c0e46f s00027"
+    },
+    {
+      "severity": "warning",
+      "artifact": "03",
+      "explanation": "Check article length against the 600–900 word target; Chinese word counting needs human review"
+    },
+    {
+      "severity": "warning",
+      "artifact": "03",
+      "explanation": "Check video narration against the 3–5 minute target"
+    },
+    {
+      "severity": "warning",
+      "artifact": "human_review",
+      "explanation": "A person must verify interpretation, commercial incentives, critical ASR passages, and final publication wording"
+    }
+  ],
+  "as_of_date": "2026-10-16"
+}

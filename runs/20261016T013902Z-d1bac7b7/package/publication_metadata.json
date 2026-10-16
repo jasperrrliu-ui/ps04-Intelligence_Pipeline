@@ -1,0 +1,54 @@
+{
+  "publication_name": "How a Stage Takes Shape",
+  "publication_as_of_date": "2026-10-16",
+  "language": "English",
+  "intended_audience": "Theatre and musical fans without professional scenic or lighting training",
+  "publication_status": "substack_public_youtube_public_crosslinked",
+  "visibility_intent": "Public, for the course publication requirement",
+  "items": [
+    {
+      "piece_id": "01",
+      "article_title": "How a Stage Takes Shape: A Beginner's Guide to Contemporary Scenic and Lighting Design",
+      "article_path": "articles/01.md",
+      "video_title": "Scenic and Lighting Design: Story, Space, and Stage Magic",
+      "video_duration": "2:39",
+      "vids_project_url": "https://docs.google.com/videos/d/1xruAI5j3bSjfLisiHxXIsTrWtQzG3bk42hZ7X7v7tjo/edit",
+      "mp4_drive_url": "https://drive.google.com/file/d/10YpDUy60u3QjyTd0NGYLABsgVBq6uCRe/view",
+      "substack_url": "https://jliuseeu.substack.com/p/how-a-stage-takes-shape-a-beginners",
+      "youtube_url": "https://www.youtube.com/watch?v=1I4OeKRqI9c",
+      "youtube_description": "How do scenic and lighting designers turn a script into a stage world that fits the theatre and keeps the audience focused? This beginner-friendly overview connects professional practice to space, story, light, and audience attention.\n\nCompanion article: https://jliuseeu.substack.com/p/how-a-stage-takes-shape-a-beginners\n\nSources and claim locators are linked in the article. Publication date: 2026-10-16.",
+      "publication_status": "substack_public_youtube_public_crosslinked"
+    },
+    {
+      "piece_id": "02",
+      "article_title": "How a Stage Takes Shape: A Beginner's Look at Scenic and Lighting Design, Learning, and AI",
+      "article_path": "articles/02.md",
+      "video_title": "How a Stage Takes Shape: The Art and AI of Stage Design",
+      "video_duration": "3:00",
+      "vids_project_url": "https://docs.google.com/videos/d/1B6eJaFHURYr4qDBRy51Mkw8aHAGHR3CXyH1kY8b5Pho/edit",
+      "mp4_drive_url": "https://drive.google.com/file/d/1yQsqm-JfzkLCS_Pn4AhjqRZCrrJULcgU/view",
+      "substack_url": "https://jliuseeu.substack.com/p/how-a-stage-takes-shape-a-beginners-bd5",
+      "youtube_url": "https://www.youtube.com/watch?v=_-si0wmPpj0",
+      "youtube_description": "A practical tour of how designers work with theatre-specific constraints, audience focus, rehearsals, and emerging AI tools. The video distinguishes professional practice from the narrower tasks current AI systems may support.\n\nCompanion article: https://jliuseeu.substack.com/p/how-a-stage-takes-shape-a-beginners-bd5\n\nSources and claim locators are linked in the article. Publication date: 2026-10-16.",
+      "publication_status": "substack_public_youtube_public_crosslinked"
+    },
+    {
+      "piece_id": "03",
+      "article_title": "How Professionals Shape Theatrical Spaces: What This Means for AI Stage-Design Apps",
+      "article_path": "articles/03.md",
+      "video_title": "What a Beginner-Facing AI Stage-Design App Should Promise",
+      "video_duration": "1:59",
+      "vids_project_url": "https://docs.google.com/videos/d/1VP1JeYQh477KbDxctXz5AuXHbcDtq2hlgLDYkXdIsEc/edit",
+      "mp4_drive_url": "https://drive.google.com/file/d/1luUBDxnui2f9SMa1pDwO9k0GnMHTL5rn/view",
+      "substack_url": "https://jliuseeu.substack.com/p/how-professionals-shape-theatrical",
+      "youtube_url": "https://www.youtube.com/watch?v=uUYmsbfxTFU",
+      "youtube_description": "What should a beginner-facing AI stage-design app teach, and where should it avoid promising automation? This piece translates professional design practice into a learning scaffold and clear product boundaries.\n\nCompanion article: https://jliuseeu.substack.com/p/how-professionals-shape-theatrical\n\nSources and claim locators are linked in the article. Publication date: 2026-10-16.",
+      "publication_status": "substack_public_youtube_public_crosslinked"
+    }
+  ],
+  "technical_demonstration": {
+    "script_path": "technical_demo_script.md",
+    "video_url": null,
+    "status": "script_prepared_recording_pending_public_claim_url"
+  }
+}

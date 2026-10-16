@@ -1,0 +1,15 @@
+{
+  "stage": "fetch_podcasts",
+  "status": "completed",
+  "input_count": 2,
+  "output_count": 2,
+  "started_at": "2026-10-15T02:18:42Z",
+  "finished_at": "2026-10-15T02:18:44Z",
+  "tools": [
+    "python:xml.etree.ElementTree",
+    "requests (curl failed: curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030E) - No credentials are available in the security package)"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

@@ -1,0 +1,2169 @@
+(upbeat music)
+(upbeat music)
+- This is Ellen calling you from the tropical island
+of St. Bart, and you are listening to Light Talk.
+- And this is Dennis, coming to you from Long Island,
+and you are listening to Light Park.
+- And this is David, coming to you from the beautiful
+Belmont Shore neighborhood of Long Beach, California.
+And if you don't already know,
+you are listening to Light Talk,
+and we are the Lumen Brothers.
+- And sister.
+- That's right, Ellen.
+Welcome everyone to episode 495.
+And today we are honored to have Corey Padick.
+Wow, man.
+Corey, how are you doing?
+- Hi, hi, I'm well.
+- Thanks for having me.
+- I'm your guy with hair on our show, you know.
+- David, I didn't say that Corey was a podcaster.
+- Long before Light Talk went on the airwaves.
+- I know, I like to think that I was a minor pioneer
+in our very, very niche world of theatrical design.
+- Wow, that's right, you do have a podcast for a long time.
+- Did do, I don't know, I don't know.
+It's not necessarily in the past.
+It's a fluid organization.
+No, but I started mine in 2014, yeah.
+- 2014, you're right, you are a pioneer.
+- I walked so you guys could run.
+- That's what we're saying.
+- Oh, and we thank you for that.
+'Cause we had this really super easy time
+trying to put this thing together, you have no idea.
+(laughing)
+There were three of us who knew nothing about it.
+So, Alan, why don't you tell our listeners
+a little bit about Corey?
+- I'd be happy too.
+Corey has been a working lighting designer for 20 years.
+His work can currently be seen on Broadway
+in the Great Gatsby, which just surpassed 1,000 performances.
+Yay!
+Other Broadway credits include the revival of Spamalot
+and a Wonderful World.
+The Great Gatsby and Spamalot are also currently on tour
+in North America.
+He was the resident lighting designer
+for the Broadway Center stage series
+at the Kennedy Center,
+designing nearly a dozen shows
+and garnering a Helen Hayes nomination
+for his design of nine.
+He has worked at regional theaters all over the country,
+including Paper Mill Playhouse, The Old Globe, Fifth Avenue,
+Good Speed, Signature Theater, Oslo, Rep, and many others.
+His international work includes multiple shows
+in Brazil and Colombia,
+the recent award-winning production
+of Come From Away at Theater Calgary,
+as well as shows for MSC and Norwegian cruise lines,
+and the West End and South Korean productions
+of The Great Gatsby.
+He is currently designing a brand new multi-million dollar
+Pixar themed show for Hong Kong Disneyland,
+which will premiere in 2027.
+Corey created one of the first long form interview podcasts
+strictly about theatrical design,
+back in 2014, called In One,
+which features hundreds of hours of designers
+talking about their life and work.
+He also wrote and co-produced
+the absolutely adorable animated series Light Humor
+for four-wall entertainment,
+as well as created the very popular
+follow-spot tracking software spot-on
+used by industry professionals around the world.
+Welcome to Light Talk.
+Thank you very much, happy to be.
+- You know, I think someone is doing a session
+about spot-on at LDI.
+- Okay, you know, can I say something?
+So my good friend Colleen,
+who was my fall spot assistant on The Great Gatsby,
+I did notice that she was gonna teach a session at LDI,
+and I cannot tell you how pleased and tickled
+that makes me because spawn was the thing I made 20,
+no, 16 years ago for myself.
+Because I was sick of tracking follow spots
+in traditional sort of Excel type software,
+and I started sharing it more and more and more and more.
+And then it really sort of became the standard,
+partially because it's editable,
+so people who know how to use FileMaker can just edit it.
+And people email me to this day,
+all of the world to ask for it,
+and I give it to anybody who asks for it.
+Email me, I'll give it to you.
+People have customized it a thousand different ways,
+and it truly is now kind of the industry standard,
+certainly on Broadway.
+And the fact that like one of my assistants
+is teaching a class about it,
+and I'm nowhere to be seen or mentioned,
+which I actually love.
+Like it has transcended a thing that I made
+into just a thing that exists,
+and that gives me great joy.
+And if that has a longer lasting impact on the industry
+than I do, at least I will have made some sort of footprint.
+- That's great, 'cause I wondered
+if they were gonna ask you to be there or what, but you know?
+- No, I will say though, Ellen,
+you probably were gonna ask me this,
+I actually think I am gonna go to LDI this year.
+I have a vengeance that was in Orlando.
+So I think that-- - Oh my God.
+- Yeah, I think maybe like 15 years ago or something.
+I'm never, ever available,
+because shows are always like opening
+like right after Thanksgiving, or right before,
+and but I am available this year,
+and I have spent a lot of time in New Orleans recently,
+and I don't need to go back to New Orleans in the future,
+anytime soon, even though I love it.
+So I was like, you know what, last year in Vegas,
+so I should go, so I think I'm gonna go.
+So yeah, I'm excited.
+- Great, well, if you wanna be on the spot on,
+I can get you on the panel, I'll stay in the back.
+- I'll stay in the back.
+- I'll stay in the back.
+- I'll stay in the back and yell questions.
+Here's the really funny part,
+is that like, I actually couldn't teach the class anymore,
+'cause I actually don't know how it works.
+When I was like 25, I made this database,
+and it's like full of all this like,
+file maker scripting, and like, I spent like,
+years working on this.
+I haven't touched it for years and years and years.
+I don't know how any of it works.
+I couldn't help you if you needed help with it.
+Like, on the various things I used it myself.
+If something doesn't work,
+I have to call someone else,
+and ask them how to fix the thing I made,
+because it's been so long since I made it.
+So no, it should absolutely be taught by people
+who currently use it.
+- I wanna say something here,
+because I don't know how long it goes,
+but like five, 10 years ago, I was doing a show.
+I believe it was in Norway or something like that.
+And my assistant was tracking spots using this new program
+that I had not seen before.
+And I said, wow, this is a really cool program.
+And she told me, she said,
+this is a program called Spot On.
+I said, oh, that's really great.
+I had no idea, Corey, that you had developed it.
+But thank you very much,
+because many of my assistants are using it.
+- As you might have seen, or realized from my little bio,
+I get on these sort of flights of fantasies
+and become obsessed with sort of little projects
+and then do them for a while
+and then get bored and move on to something else.
+Or, you know, and so there was a time
+where that making that false about thing
+was like my life for a little bit.
+And I'm really so happy that it continues
+to just be used by most a lot of people.
+And I just love that.
+- So tell me about the Disney thing.
+I wanna hear all about this.
+- Pixar. - I can't tell you much about it
+'cause it is Disney.
+But I could tell you what was shared at D23 this year,
+which is, it's a new stage show,
+a theatrical spectacular, if you will.
+That is based around Pixar films
+that people know and love.
+And it is going into a brand new theater,
+which is being built in Toy Story Land
+in Hong Kong Disney.
+And I've been working on it for like a year and a half.
+And it's been thrilling and exciting
+and has always been a dream of mine
+to work on a show for Disney parks.
+And I think that's probably all as bad as much as I could say.
+But it has been absolutely fascinating and thrilling
+and has allowed me to flex creative muscles
+that are so exciting and interesting to do.
+'Cause I'm not, you know, I'm the letting designer,
+but we all sort of contribute to kind of create the show
+and everybody can give ideas on script and story
+and staging and all sorts of stuff.
+And I'm a sort of a big Disney nerd already
+and feel like I really appreciate
+whether the Disney ethos and kind of storytelling.
+So to be able to sort of actually practice
+within that world has been thrilling.
+And we will take it at some point next year
+as with all things,
+as with all sort of a new construction,
+you're a little bit at the mercy of the building construction.
+And so we will see when that actually happens,
+but that will be next year.
+And I'm really excited for that.
+- I find it interesting, the Disney Pixar collaboration
+because it's sort of birthed some very interesting things
+for them, cars, cars, land, and cars.
+- It's particularly interesting for a stage show
+because Pixar movies are not musicals
+in the diagetic sense of what is a musical.
+It's very easy to put other Disney movies on stage
+'cause the characters have songs and they sing,
+but creating a stage show with characters
+who don't sing is an interesting challenge.
+And so that has been part of our task
+is to figure that out.
+- I'd like to talk about Corey Paddick.
+The Renaissance, man.
+You're not just a lighting designer.
+You first came under my radar back in 2020 or 2021
+when you were co-producing and writing
+an animated series for 4-wall lighting.
+That series was called Light Humor.
+And since then, about 10 episodes have been released.
+Tell us a little bit about Light Humor.
+- Yeah, I sort of lost track.
+I'm not sure what they read it, correct?
+You write it and produce it.
+- I mean, I have written some of them, not all of them.
+I'm not sure what the future may hold for it
+or what my role in it will hold,
+but it was born out of the pandemic.
+It was actually inspired by something I had done years
+and years ago, probably around the same time
+I was doing the making spot on.
+There was a website, I don't remember the name.
+Oh, extra normal was the name.
+There was a website where you could make like dumb cartoons
+and you could like write a script
+and these like very sort of like generic 8-bit cartoon characters
+would like read what you say and sort of like very robotic voices.
+And I started making them about like funny theater design things.
+And you might have seen them like 15 years ago,
+but there was one about like set designers
+and one about directors and one about lighting shops
+and most of them have disappeared from the internet.
+I only have a couple left.
+Anyways, I made those like years and years ago
+and would like share them on Facebook
+and everybody thought they were very fun and funny
+and we would try to poke fun at ourselves.
+So a four-wall had sort of remembered those
+at Jeff Carter who was working with a four-wall
+had remembered that I had done those
+and they had wanted to make some sort of cartoons
+over the pandemic.
+And so yeah, so they asked me if I wanted to sort of
+be a part of that.
+And so we came up with these ideas
+and we write the scripts and we have an animator
+who does them and we would record them
+with the mix of lighting folks and professional actors.
+And yeah, we did a bunch of those
+and then as with everything,
+work started coming back in the pandemic
+and I started having less time to sit around
+like writing animated cartoons.
+And so I don't have any sort of currently in the hopper
+which is not to say I won't do any more in the future
+but there's only so many hours in the day
+which is like everything like that.
+Like the podcast like there's only so many hours
+and so I'm constantly sort of choosing like
+how I want to spend my time.
+But for a while there, yeah, we were doing those
+and people seem to enjoy them and I think it's really important
+to not take ourselves too seriously.
+I take my work very seriously
+but I try not to take myself too seriously.
+And I think if people sometimes listened in
+on the conversations we had,
+they would be shocked at sort of how nonsensical they can be
+and how ridiculous.
+And so this was just sort of an attempt
+to take some of that fun and put it in the mouths
+of some fun blue characters
+and just poke a little fun ourselves.
+- Well, it's very well done.
+And students who haven't seen this on YouTube
+should definitely tune in.
+Light Humors, the name of it
+and it's wonderfully funny and well done animated series
+where many of the voiceovers are being done
+by fellow colleagues who are designers themselves
+just wonderfully done.
+The other thing I wanted to ask you about
+is your podcast.
+I mean, you are a fellow podcaster
+but you kind of got the ball rolling back in,
+I think it was 2014.
+You did your first podcast with Jason Lyons
+and you've been doing them right up
+but you well over 100 if I remember correctly.
+Tell us a little bit about that in one the podcast.
+- Yeah, more like 12 years ago.
+- Yeah, I was still working somewhat as an associate
+doing associate design work.
+And I was listening to a lot of podcasts
+that were like really long-form podcasts.
+I mean, it actually goes back even further, right?
+Like I used to relighting dimensions
+when I was in high school
+when you could still go to Barnes & Noble.
+If you were lucky and find a lighting dimensions
+on the shelf, which is crazy now to think
+that you'd find that just like an enormous bookstore
+or a bookstore theory.
+So, so I, when I was in high school,
+I was, you know, obsessed with the articles
+and reading and I would get editing design, right?
+And so like, of course, like you'd find them lying around
+like you're like tech booth at your high school,
+that'd be like huge entertainment design.
+So I was like really into the,
+'cause I lived in Pittsburgh.
+I didn't, I had never been to New York.
+I'd never seen a Broadway show.
+I'd only seen touring stuff at local production.
+So I was really like obsessed with Broadway
+and Broadway design and being able to read these articles
+in these magazines gave me a window into it,
+but it always was so truncated.
+You know, I would get, I would get like, you know,
+two columns about the lighting, you know,
+for crazy for you or whatever it was.
+And I just always wanted to just know more and more and more.
+And so like, that never really went away.
+And then as podcasts became a thing
+and there would be these really long-form podcasts
+that would sometimes be an hour and a half, two hours.
+And what I liked about it was like,
+if you get bored, just skip ahead
+and maybe you'll find something more interesting.
+And if you listen for an hour and you go like,
+all right, I get it, I don't need any more.
+You just turn it off.
+And so I really liked the idea of just having long chats
+with designers and it was like,
+we're not gonna edit them, we're just gonna talk.
+And listen to whatever you want
+and we're just gonna make this available.
+And so I started doing that in 2014
+and then it just became the thing.
+And now of course there's other ones like yours,
+like Efins, there's a bunch of them.
+And you know, and I'm thrilled that other people
+have picked up the mantle as well.
+But yeah, it was a great thing.
+I got to meet a lot of designers that I didn't know
+when I would be working with a new designer.
+I would be like, hey, do you wanna sit down
+and do a podcast?
+I haven't really done any lately,
+but there's no sort of like,
+there's no grand reason why.
+Like I said, with these other things,
+I like get really obsessed with the project.
+I do it for a while and then sometimes I sort of go like,
+yeah, I'm not feeling this anymore.
+But I actually, I have some time now
+between now and the end of the year.
+So I might actually try and record some additional episodes
+if I can get some people.
+There's some folks that I've talked to
+who are sort of having it high.
+And I'm like, it's easy, trust me.
+Like you don't have to be nervous.
+Like it's very easy, a lot of people have done it.
+But yeah, so there's this whole back catalog now
+of over a decades worth of interviews
+over a hundred episodes.
+And most of the episodes are, you know, an over an hour.
+Some of them are crazy long, some of them are two parts.
+Some of them are over two hours.
+And so there is now this like historical record
+of what it was like, what is like being a Broadway designer.
+And I will say the other thing that I like about it,
+I get a lot of emails from like students asking me
+for advice and aside from genuinely not having time
+to answer every one of those individually,
+it's very nice for me to be able to say,
+why don't you go listen to about a hundred different designers
+telling you their advice?
+And I promise you you'll learn more
+than anything I could give you in one email
+because everybody's got their own, their own journey.
+So yeah, so that was the thing.
+It's still out there.
+There's still all available in one podcast.com.
+I'm sure I'll record more in the near or not so near future.
+It kind of has no ending or beginning.
+I just sort of do it when I feel like it
+and put them out and that's kind of it, that's kind of story.
+- Yeah, but you don't restrict it
+the Broadway designers, Corey, right?
+You bring in the opera designers too, right?
+- I mean, yeah, I mean, honestly, this sounds so selfish,
+but like I just talked to people,
+this is literally how it started.
+I was like, I'll just talk to people I wanna hang out with.
+And like people that are my friends,
+people that I want to be friends with,
+literally I would just reach out to people
+that I wanted to be friends with.
+There was sort of no like, I mean,
+I didn't wanna talk to people like two years out of school.
+Like I wanted people that had a body of work,
+but generally speaking, it was just like,
+I'm just kind of like talking to people that like interest me
+and that I wanna talk to.
+And so that's what it became.
+- Well, in full disclosure, I have to admit,
+I haven't heard every single one of the well over 100 podcasts
+you did, but some of my favorites were the ones you did
+during the pandemic, where you assembled five or six designers
+and did a Zoom call podcast just to talk about
+what everyone was doing and how they were surviving
+during that terrible period.
+- Oh yeah, those were crazy.
+We would like meet every week.
+We would be, it's funny, if you talk to Shreaver,
+a couple like last year or something,
+she went back and listened to a lot of our episodes
+from COVID and it was, I know it was like a wild trip
+to sort of like see what all of our head spaces were back then.
+But it was really helpful to like get together every week
+and 'cause we didn't know we were ever gonna work again.
+So it was like, now looking back on it,
+it seems sort of silly, you know,
+now that we're all sort of busy working
+and have been for a while now.
+But at the time, nobody knew anything.
+So yeah, that helped get us through it
+for at least a couple of months.
+- It was a crazy time and we didn't know the future.
+We had no idea if there's a little kid
+to be live entertainment, any, you know,
+that we're gonna be on you know, little modules and cones.
+- Yeah.
+- So let's talk a little bit about your work as a live designer,
+you know, and I was perusing some notes here.
+And you know, one of the things that kind of interests me
+is when you talk about being super careful
+when not letting ideas and tricks are revealed
+throughout the show.
+You mean through the timeline of the show
+when you're revealing certain, you know, ideas
+and motifs and things like that?
+Why don't you explain this?
+'Cause that's a very interesting thing to me.
+- It's something I think about a lot,
+which is like I'm gonna just use as an example.
+I just did two productions of course
+on this summer, completely different.
+One is one played at Barrington
+and this is currently that production move to Jiva
+in Rochester.
+And then I have another one playing at Fifth Avenue right now.
+Anyways, two completely different productions.
+But they both have some similar elements, right?
+There's like some neon that like has like a neon
+and a portal and there's like neon in the mirror.
+And I'm just using these as an example
+'cause it's like very basic.
+Which is to say that like as a line designer,
+we always talk about like our tricks.
+Like we only have so many tricks.
+And a trick could be anything.
+A trick could be a color.
+You know, your magenta backlight.
+A trick could be like a side electric,
+like a neon thing.
+A trick could be a special effect that you have.
+A trick is just something that like is outside
+of the kind of just the normal plot.
+And I think a lot about where is the best place
+to deploy our tricks or our toys
+for the first time for maximum impact?
+Which is to say that like if you try not all your stuff
+in the walk-in and someone comes in
+and they go that lights up and that lights up
+and that lights up,
+then you have, there's no surprises left
+throughout the show.
+And I think about it a lot because I will say,
+I feel like I see this done poorly a lot
+where I will like go see a show.
+And you know, oh like in the set,
+there's all these hidden lights in the step facing.
+And when they turn on, it's really powerful and impactful.
+And they get turned on like in a random queue
+in the middle of a musical phrase in a random number.
+And I always go like that is such a powerful look.
+You used it in such a,
+there could have been a much more interesting way
+to use that instead of just like randomly turning it on
+to cues from the end of the song.
+You know what I mean?
+So I personally take it on to just really think about
+what are the moments that we need to hit?
+Where do we need to land big ideas and,
+and you know, where are their big, big musical ideas?
+And you know, that's when we could turn on these lights.
+Or that's when we light up all the chandeliers
+for the first time.
+Or, you know, if you have something that changes color,
+sometimes you have like,
+I just did a production,
+primarily we roll along and there were a bunch of like
+hanging orbs in the overhead.
+And they changed color.
+But the audience doesn't know that.
+So you could start with them looking just like
+tungsten hanging lamps.
+And then at some point they change color,
+which is a surprise,
+which carries with it some sort of emotional impact.
+So when should you do that?
+When is the most useful moment to reveal that trick?
+And so that's what I mean.
+And I think about that stuff a lot, a lot, a lot.
+And sometimes we'll think we know it and we'll do it.
+And then we'll go, you know, like,
+maybe we should just save these for this.
+And something I love the most is like saving a huge idea
+to like halfway through the second act.
+I love that kind of restraint
+that you have this like big thing that you could do.
+But you wait until the 11 o'clock number
+so late in the show and it's just so impactful
+because no one is expecting you to have this grand idea
+that you haven't used yet.
+And so I think about that stuff a lot.
+- Do you find yourself discussing with the director
+when the director wants to give something away earlier
+than you want to give it away?
+- Absolutely.
+I mean, I often find myself having this conversation
+with the director where I say, like, hey, listen,
+we, you know, again, the whole set is covered in neon,
+but you can't tell, it's all hidden.
+When do we think is the most exciting moment
+to like reveal that?
+And we'll sort of like bash around ideas
+and usually I'll have an idea and they might have an idea.
+But I do like to talk about it with them mainly
+so I can get out in front of the thing that you just said
+which is like if we're in the second scene
+and they're like, ah, we need something.
+Can we turn on the neon?
+Instead of having the conversation right then and there
+but I actually think it will be amazing to save it
+for the big finale of Act 1
+that we've actually had that conversation
+outside of the precious tech hours.
+And so they already know in their mind,
+oh, Corey's not using that because we talked about
+saving that for a big thing later.
+So yeah, we will, we will talk about stuff like that.
+Corey, what are your discussions like with the directors?
+In one of your podcasts, I remember you said
+that you love meetings but don't often have meetings
+because things don't get really discussed at length.
+When you are having the collaborative discussion
+about a show with a director,
+what is it that you do talk about?
+- I think that is a big misconception.
+I had a young designer come visit me and tech
+and he was like, what kind of directors did,
+what kind of conversations did you and the director have?
+'Cause he was seeing the stage and he said,
+what kind of conversations did you guys have?
+And I said, we didn't have any conversations really.
+But that's such a specific answer to a,
+my specific relationship with this director,
+we've done many shows together.
+B, it was course line.
+So it's like we know what the show is.
+But I do think that there is maybe a misconception
+among young designers that lighting designers sit around
+and talk about lighting with the director a lot
+before they go into the show.
+And maybe some of them do.
+I can only speak for my personal experience
+and the experiences of my close peers.
+That's not something that I think happens a ton.
+I know that we might have like a conversation
+if someone has gathered some research materials,
+some visual materials either myself
+or the director has brought stuff for the set designer.
+We might look at some photos and paintings
+and say, oh, I really like that, that's really cool.
+But that's like one conversation.
+That's like a conversation maybe that happens early
+on in the process talking about the look of the show.
+I would say I spend way more time talking
+to the director about non-lighting things.
+Like practical and logistical things.
+Like where is this gonna take place on the stage
+so I can make sure I have the right light
+that I need for this moment.
+I'm gonna do this thing in this moment,
+but I need in a way they're gonna be
+so I know where to put that light.
+We talk about stuff like that.
+We talk about mood and emotion
+and all those sort of like, you know,
+buzzwords that we know is what lighting can achieve.
+But we rarely actually talk about lighting itself specifically.
+And I'm okay with that.
+I actually prefer that because I don't want a director
+to like know too much or think they know too much
+or, you know what I mean?
+Like it's not their job to say what the lighting should be
+or what lights I should turn on
+or what colors they should be.
+It's the director's job to say like, this should feel,
+like I just, I just had this with the director.
+He said, this should feel more menacing.
+And I agreed with him.
+I actually had sort of like pulled my punch a little bit
+and I was like, no, you know what, he's right.
+We can go further with this.
+I didn't want him to tell me the foot light
+should be brighter, it should be greener,
+their faces should be more in shadow.
+That's not their job, that's my job.
+And so I want them to tell me how it should feel
+and then I'll interpret that.
+And then hopefully they will agree.
+There was another scene where we were struggling
+to sort of figure out what it was.
+And he kept saying like, it should be more even.
+Everyone should feel more even.
+I feel like as they're moving through the side light,
+there's too many shadows.
+And I want everyone to feel more uniform.
+And we took us a couple days to sort of find the cue
+that we were looking for that he was happy with.
+And it actually, the solution was actually turning out
+all the side light, which was a little counter-tootive
+for a dance show.
+But what was happening is as people moved closer,
+upstage it downstage, they'd move into a boom.
+The light would get brighter on them.
+They would move away from the boom.
+The light would get dimmer on them.
+And it was creating like all of these different
+sort of brightness and dimness.
+And what he wanted was something much more kind of even field
+so that everybody's body felt sort of
+in the same hue, value, intensity across the stage.
+And so I'd use a different set of lights
+that were more kind of homogenized.
+And we eventually got there.
+He didn't know how to like say that in his words
+with lighting, because he's not a line desire,
+nor should he be.
+So we had to find that solution together in the theater.
+But that's what I mainly talked to directors about.
+There is not a lot of a director saying like,
+I need to have a blue light here or whatever.
+Also the advent of the lighting technology means
+you don't have to have those conversations
+because I can have the lights change color
+and half of them are robotic
+and I can put a light wherever you need
+with whatever color.
+So we can discover things together in the theater.
+We don't need to sit and have meetings
+after meetings talking about what all the lighting
+should look like.
+- Let me ask you this, Corey.
+What would your feelings be if you started the process
+with a director who said to you
+that much like our friend Jen Trevor did with lossboys
+and the director said they wanted to be your co-lighting designer
+and be involved in the process as a lighting designer with you?
+- Oh my God, I don't know.
+I think it depends on who the director would be.
+You know, I know you guys talked to Jen
+and one of the reasons that that works
+was because her and Michael are so close
+and they're so trusting and they love each other.
+So something like that works.
+I have directors like that
+and I'm sure if they ask me it would work
+and then I have other directors or people I don't know
+who I might sort of raise an eyebrow at.
+So I don't know.
+I think that would be a case-by-case situation there.
+- Let's talk a little about the great Gatsby.
+I mean, a thousand performances.
+That's like three years. - Pretty cool.
+- Three years on Broadway.
+- Yeah, boys, you were like two and a half ish, yeah.
+And then if you add the papermill run ahead of that,
+it's even longer, but yeah, it's pretty wild.
+- So what was the deal for that?
+I mean, you know, in the beginning,
+people were like, oh, you had a great Gatsby.
+And now like, obviously it's a success.
+- Yeah, I mean, everyone was sure we were gonna flop immediately.
+And I have some screenshots saved
+when I feel indignant.
+I can go and look at all the people who claimed
+that we would flop immediately on Broadway.
+No, but it's been great.
+Like I said, we started a papermill.
+We moved to Broadway that we vented in the West End.
+And we did it in Seoul.
+And it's now on tour in North America.
+It's been the gift that keeps on giving.
+It was an absolute joy.
+I felt like my entire career had been leading up
+to that moment, to that show, to doing a show
+that needed really front-footed, featured design work,
+big bold design choices, nothing sort of taking a backseat.
+Also, Paul DiPoo and I had been working together
+for a decade, kind of developing our language and our style
+and our aesthetic.
+And we finally got to do kind of the pinnacle version
+of that in this show.
+So hopefully there's more on the horizon in other countries.
+I know that's the plan.
+But yeah, it continues to make waves on the Broadway.
+It helps that the Broadway is one of the largest theaters
+on Broadway.
+And people are necessarily banging down the door
+to bring a show in there because it's such a large stage
+in such a big house.
+So we're lucky enough that we can just sort of stay there.
+- The marketing for Gatsby must be excellent
+because you're putting a lot of butts in seats every day.
+- Yeah, I mean, certainly the IP certainly helps,
+the title helps.
+We did discover and sold that it's not as popular
+like over there.
+It just doesn't resonate the way that it does here.
+So but it is a big title here and people want to see it.
+I mean, there's a reason why you see great Gatsby themed parties
+and New Year's Eve parties and cosplay kinds of things.
+People come in with the interdressed up.
+Obviously the great Gatsby is about a lot more
+than just the parties.
+And despite what some of the critics might have said,
+we do those scenes too.
+It's not just the parties.
+There is some pretty high stakes drama
+and fall out in consequences.
+And it can be a really dark tale
+about the underside of the American dream.
+But there are the parties.
+And so we had to deliver on the parties in the fashion
+and obviously Linda won a Tony for her amazing costumes.
+And people are excited to come just be a part of that world.
+And it's doing great on tour.
+And hopefully we'll keep going strong on Broadway
+for a lot more.
+- And do we have a green light shining across the lake?
+- You tell me you haven't seen it?
+- No.
+- I'll put you on the spots.
+If it's any consolation, my 16 year old son saw it this year
+and he said it was a great show
+and the lighting was wonderful.
+- Good, thank you.
+Yes, there is a green light.
+There's a green light in the show curtain.
+When you come into the theater,
+you see the green light pulsing
+and you see it reflecting on the bay,
+which is like a perfect example
+right out of the gate of lighting video working together
+because we're running an effect on a light
+and video is running an effect of the reflection
+in the water and they have to run together.
+And sometimes if we don't load the cues together
+at the same time, then the flashing gets off,
+which has happened on rare occasions.
+And then we had to figure out how to tour it
+because I'm not joking on Broadway, it's a little light.
+It is absolutely 100% I'm not joking.
+It is a little light.
+I mean, it's not the gooseneck part of it,
+but it is, well maybe there is the gooseneck.
+I don't know, you'd have to ask our production.
+But it's literally like the end of a little light
+wrapped in green gel behind a hole in a black drop.
+We looked at so many different light bulbs
+and it turns out that the light bulb we needed
+was sitting on our tech tape of the whole time.
+So it is literally, because you know what it is,
+is that we tried a lot of like A lamps
+and the hole is like really, really tiny, right?
+You know, it's like a pinhole.
+And the problem is that an A lamp,
+it just wasn't bright enough.
+The Broadway is a huge theater.
+You have to see it from the minute you walk in the door.
+But the thing about a little light is that
+it's so like pin-pointy.
+It's such a bright, like central point in it
+about that kind of like really that low voltage,
+like bright bulb, is that it was bright enough
+in that tiny pinhole.
+So we wrapped some green gel in it
+and we literally did that for three productions.
+And then finally for the tour, we got a little bit fancy
+and we did turn it into a green LED,
+which is actually even brighter and made it tolerable.
+And they weren't duct taping it a little light
+to the back of a drop.
+But yes, that green light is there among many others.
+- I thought you were gonna say you made it a laser
+or something like that.
+- That would be good.
+- No, but okay, do you wanna know a funny story?
+I have a green laser pointer.
+I travel with it all the time, it's what I use.
+In each of the cities, we wait and we cut the hole
+for the green light on-site
+because it has to be lined up with the video projection
+because it has to look like that it's on the dock.
+But obviously depending on where you are
+in the theater upstairs downstairs,
+you're perspective of the dock and the image changes.
+And so we have to sort of pick the,
+we have to pick the best spot.
+And so what we've done in the past
+is we take a little piece of white spike tape
+and we put it on the black drop behind the screen
+where we think it should go.
+And then I sent in the house and point my green laser pointer
+at the white spike tape and it lights it up green
+and then we see where it would land.
+And then we use that to decide whether that's where,
+if that should be cut the hole.
+So yeah, that green laser pointer came in handy.
+That's funny.
+So Dennis, do you see that on the dock
+and watch the green light across the bay?
+I do, I do.
+And what Ellen is referencing is that I live
+on the north shore of Long Island
+in what would be considered Gatsby Country.
+So I definitely have to go and see the show.
+You gotta come see that being said,
+I did see your first Broadway show spam a lot.
+And what a bit of fun and what wonderful lighting.
+- Thank you. - How did you manage
+to get that show on Broadway?
+- It's a wild story.
+So I was working at the County Center, RIP.
+We're not gonna talk about the County Center here.
+It'll do really entire conversation.
+- I will get too angry.
+So we're gonna talk about the County Center
+that I knew that I love,
+that I believe will come back one day.
+I was working at the County Center.
+I was working for their Broadway Center stage series.
+I started work there in 2017, 18, 18.
+I can't remember exactly the year.
+But I was doing a couple shows a season there
+for this series, which was kind of like
+modeled around the New York Encore series,
+except these ones I would say were maybe more design heavy.
+We had video, we had, I would say it's sort of
+just more complicated and nuanced design,
+which is not a knock on Encore's at all.
+It's just about sort of schedule and availability
+and you know what exists at the County Center.
+- Anyways, so I've been doing a bunch of shows there.
+And then we were actually supposed to do
+a kiss of the spider woman.
+And for multiple reasons, that show as I'm not happening.
+And they either the last minute replacement
+and they ended up doing span a lot.
+And so we did span a lot at the County Center.
+We checked in two days.
+It was one of the craziest texts I've ever been through.
+I always tell people, we didn't start act two
+until halfway through the second day of tech.
+And but we finished it that night.
+And you know, a rant for like a week at the County Center,
+it was a huge hit.
+And then all you know, everything conspired to come together
+and the St. James became available,
+which was a crazy theater for us to go into.
+I don't think anyone have expected such a sort
+of preeminent space for us.
+And yeah, and we moved that production to Broadway.
+And it was my first Broadway credit
+as a designer.
+And then Gatsby came a couple months later.
+- Was anybody from Python involved with that show?
+- Yeah, Eric Idle.
+Yeah, Eric Idle was involved.
+- Oh my God.
+- Yeah, he was around, he was around.
+He really loved it in DC.
+And that was one of the reasons why we were able to move it
+is because he was such a fan of it.
+And he was around in New York.
+And has been around for the tour a little bit.
+Yeah, he remains a huge champion of the show
+and of our production, and we're very appreciative of that.
+And he would give us like,
+we even have a couple different lyric changes
+in things or different lines in the show
+from the past couple years that he's given us or suggested.
+- Right, that sounds really cool.
+- Corey, you mentioned you grew up in Pittsburgh.
+Tell us a little bit about how young Corey,
+growing up in Pittsburgh,
+managed to find his way to Broadway,
+designing his first show spam a lot.
+I will tell you the character I will tell it quickly
+'cause I think origin stories, everyone sort of starts
+to sound the same and can become less interesting.
+But the very quick version was,
+I was a huge theater kid from a very, very young age,
+not lighting theater, really musical theater.
+And I, this is all I ever wanted to do
+was work in musical theater.
+I thought I was gonna be a performer.
+I spent many years as a performer.
+I took all the classes growing up.
+The dance classes, the acting classes,
+the singing classes, I did it all.
+I performed all through school and high school.
+I was not, I didn't do lighting at high school
+'cause I was usually in the shows.
+And so that's what I was always gonna do.
+I was also a musician like your previous guest, Ben Stanton.
+I've been a drummer since as long as I could pick up two sticks
+and banks and pots and pans.
+So I was a drummer, I was a piano player,
+I was a songwriter.
+I was just doing everything I could
+in the world in sort of theater and music.
+But then as high school ended,
+I decided that lighting was actually the thing
+that interested me the most.
+But one of the reasons I went to Syracuse
+was because they told me I could continue
+to do these other things
+unlike some of the conservatories.
+So while at Syracuse, I still performed in shows
+as of like a lighting major,
+but I was still, I was still in shows.
+I was writing shows, I was directing shows.
+I was doing all sorts of things in school
+aside from being a lighting designer.
+But eventually you have to sort of choose a line.
+And so since graduating, most of all that stuff
+has just turned into like hobby things
+and just focused on lighting.
+But yeah, that was lighting.
+I was not like a technical person.
+I was not into electricity or stage crew or all that.
+I was a huge, huge, just musical theater nerd
+and that's how I ended up doing lighting.
+After you received your BFA at Syracuse,
+did you go to graduate school at all?
+Or did you just go right to New York?
+- No, I was always quite anti-grad school.
+I was just sort of anti-school at that point.
+I had been in school for what, 16 years by then.
+And I've always just been someone who would rather
+just be doing it and learning on the job
+or failing on the job than sitting in a classroom.
+I became really kind of bored and tired
+and aggravated by like classroom projects
+where you would make a light plot.
+And then everyone would sit around and talk about it.
+Like it was a lighting design.
+And I'd be like, this isn't a lighting design.
+This is a light plot.
+This, like, you don't know what the lighting design is.
+I don't know what the lighting design is.
+I haven't turned on any lights.
+I haven't know how could you possibly know
+whether this light--
+- And literally, like, you would sit in a lighting classroom
+and people would go like, I don't know if that,
+I don't know if that, the back light work.
+It's like, you don't know anything.
+This is just ink on a page.
+This is not what lighting design is.
+And so I just found, I found a lot of that
+to be sort of a colossal waste of time.
+You can call it a drafting class,
+but that wasn't lighting design.
+And so I just was like, I also, I didn't wanna be in debt.
+I did so, no, I just moved to New York.
+But within like six months, I was working for Ken Bellington
+and did that for a year.
+And that was my grad school.
+Just like Ken trained under there
+and I trained under Ken.
+And I learned more working in his studio
+than I would at any grad school.
+So that was my, that was my grad school.
+- Let me tell you something, Corey.
+I felt the same way when I was a student
+and when I started teaching,
+I never required my students to do stupid light plot
+class projects.
+You know, they would do, if they were doing a show,
+they would do the light plot and I would critique it.
+But I wouldn't have in front of a class
+and say this will never work.
+- Well, I think you can critique the drafting.
+Like when I go to like college showcases every spring,
+like I look at drafting
+and I give people notes on the drafting.
+But I'm giving them notes on the drafting.
+I'm not giving them notes on the design.
+A lighting design is a living, breathing,
+three dimensional thing.
+It's not, it's not symbols on a page.
+And so I think you have to separate those things.
+I would rather you make a light plot with six lights
+and actually hang it and color it and focus it
+and talk about it and justify and rationalize it
+then make a light plot with 300 lights
+and have everyone else decide whether it's a good lighting
+design or not.
+- Right, right.
+- Yeah, I totally agree.
+And that's why it's so important in educational theater
+because I taught it through universities.
+You know, as well as, you know,
+doing my thing with my career.
+But the most important part of it for my students
+was taking them out on shows I was doing
+and actually go through the process.
+We're having them design actual shows
+and go through the process.
+'Cause you're absolutely right.
+Especially nowadays where you have moving lights
+and LEDs and all that everywhere.
+So how do you know that one light
+that could do 800 different things?
+You don't know the placement there is going to work or not.
+And if it doesn't, the light downstage one electric
+will probably work.
+So it's like totally crazy nowadays, even do that.
+I can't even imagine teaching 'cause I don't teach anymore
+but I can't imagine, you know, trying to teach that.
+And they say, "Well wait a second,
+"I've got like 30 moving lights on the overhead."
+I mean, the other thing, I mean, I'll piggyback on that
+which is to say, I was going back to like,
+when I talked to young students like,
+I have like big ideas in my head.
+I know, you know, maybe how a number should feel
+I might have like a thought about what something might look like.
+But generally speaking, I have no idea
+what the lighting is going to be before I do it.
+You know, I know like Kevin sits down
+and makes all these like little maps and draws arrows
+and things like that.
+I really don't do that.
+I might have a color in mind.
+I might have a quality of light in mind or an angle in mind
+or probably more so in anything, the queuing in mind
+because as a really, really like deeply musical person,
+like particularly if I'm doing the musical,
+everything comes out of the music.
+I know every beat of every song like the back of my hand
+but I don't know what the lighting is going to look like.
+And if you come up to me on a 10 minute break
+before we light a huge production number
+and ask me what the number's going to look like,
+I have no idea.
+Not only do I have no idea
+but I don't even know what the next queue looks like
+after the one I'm currently working on.
+And you know, I think about it a little bit like jazz,
+like it's like improv, right?
+It's like, you know what key you're playing in,
+you know the tempo, you know the melodies and there are sort
+of phrases, but you know the best sort of like improv,
+you know piano players, sax, anything.
+The best improv players in the world
+do they can do that because they've been doing it
+for so long that they trust their gut
+and it's the second nature
+and they can just pick up their instrument
+and they know that their hands and their mouth
+and their brain is going to take them to something that works.
+And that's kind of how I approach lighting.
+I really don't know what I'm doing until I do it.
+And also I find lighting to be wildly reactive
+which is why I hate doing previous
+because like I don't know what's going to work
+until I see it, I can't just like see it in my mind
+to know that it's the right idea and then move on.
+I have to turn those lights on, look at it
+and go that looks awesome or that looks stupid,
+let's try something else.
+And so I'm constantly just like trying out ideas,
+auditioning things, we're feeling my gut feeling responding
+to what's there and then like going ah, yes,
+that's what we're looking for, move on.
+And that can be really scary
+and I've gotten better at being less scared by it
+when you know you're coming up
+on a huge production number,
+usually at about 10, 30 at night.
+And you're like, God, I don't know what this thing is going to be,
+but we're going to start it.
+I just have to trust that like I'm going to,
+I'm going to find my way into something
+that's going to work because I've been doing this long enough.
+But I do think that that is another thing
+people are surprised to hear about,
+that it's like not all mapped out in advance,
+that I'm just like I'm just winging it at 90% of the time.
+- Well, that's pretty much what I do.
+I mean, I play the lights like I may create them
+as a musician playing jazz.
+We've talked about this on the show all the time.
+One thing you do know, at least you know very closely
+where those cues are going to happen
+because that's where the music changes.
+- Yeah, I was like, this is a director I work with a lot
+who always says to me you're the only like designer
+who I never give a timing no to.
+- Right.
+- I rarely get timing notes from directors.
+It's like, it's like I can sit down
+and like sit in the pit and play the drums
+for every one of these numbers.
+Like I know where I know where the kids should go
+on how long they should last when they should finish
+and when they should start.
+And so that part comes really easy to me.
+- People have asked me, what's the most important quality
+or talent that you need to have?
+Or a feeling that you need to have to be a light designer.
+I said, you need to understand music.
+You need to be able to feel music.
+So even if you're just doing a play
+and there's no music in it,
+there's music in the rhythms of the tension
+and happens in the play itself.
+- You need to understand music.
+And I will add that unless your show is on time code
+that all of that beautiful, wonderful timing work you've done
+is sitting in the hands of the stage manager.
+And if you're a stage manager calling in musical,
+you better be just as musical as that lighting designer
+because otherwise you could just turn it into mush.
+And so another piece of advice I always have
+for people wanting to be stage managers
+is if you want to stage manage musicals,
+learn to play an instrument, learn to read music.
+Like play those, play the albums.
+And I always said albums.
+Play those albums until they no longer play
+because you need to know that music
+as well as the musicians in the pit do.
+And I've worked with some of the do
+and I've worked with some of the don't.
+And you can imagine which one I enjoy more.
+- So why do you say that Q1
+is the most important Q in the show?
+- So I love writing the pre-show.
+It's maybe my favorite thing to do.
+Now, if there's just like a curtain down,
+there's obviously less you can do
+'cause there's just a curtain.
+But you can still make choices.
+But lots and lots of shows don't have show curtains in.
+You walk into some sort of look on the stage.
+Number one, going back to the thing I said earlier,
+you have to decide how much to reveal to the audience.
+You don't want them coming in
+and sort of analyzing everything.
+Remember that Q1 is the Q that the audience
+will spend the most amount of time with.
+It will be the most impactful Q in the show
+whether you want it to be or not.
+They will live with that for potentially 30 minutes
+before that show.
+And in that time, there is no other stimulants
+coming their way to tell them the story
+other than what they're looking at on stage.
+Maybe there's a sound Q, you know,
+obviously I'm not talking about
+any sort of pre-show performance.
+But they are sitting there making decisions and judgments
+and guesses about the show that they're about to watch.
+And all they have to make that judgment
+is what is in front of them,
+which is a huge opportunity as a storyteller
+to decide what story are you trying to tell
+in that 30 minutes?
+Is this a comedy?
+Is this a drama?
+Should they, you know, it will even affect
+like how loud they're talking before the show.
+If it's a comedy, right?
+And you want people laughing?
+You want them in the mindset of talking
+and laughing before the show.
+If you walk into a space it feels like a sacred church
+and they're whispering to their neighbors.
+That's not setting them up for a boisterous night
+of like laughter and fun.
+So we have to really think about what story you want to tell,
+how much you want to reveal of the stage in front of them.
+And I've had a lot of conversations with directors
+about like, is this too dark?
+Does this need to feel happier?
+Like, and we talk about that walking
+probably more than any other Q.
+And I will usually, once I think I have something,
+I will actually go on the lobby, walk around,
+let my eyes like, you know, acclimate to the sunlight
+or the lobby light or whatever.
+And then I will do my very best to do what, you know,
+one of the things Billington always taught me,
+which is like, try to see the show
+from the audience's perspective.
+It's why I never said in a preview station.
+I never watch a preview with a headset on
+or behind any sort of monitors.
+I make them give me a ticket in the orchestra
+and I sit amongst the people and I watch the show
+and I pretend that I've never seen it.
+And I'm just there watching it for the first time.
+What am I experiencing?
+And that's what I like to do with the walking
+is walk into the theater and feel what my gut reaction is.
+You know, when I did great Gatsby at the Colosseum,
+we lit the shit out of that place.
+We lit every surface in bust and little gold ornament
+in that room.
+And when you walked into that Colosseum,
+this beautiful, beautiful,
+100 year old space in the West End,
+people would just gasp at what they saw around them.
+And that set them up for a night at the great Gatsby.
+And that was really important to me.
+So the cue that they're walking into,
+you have to spend a lot of time thinking about that.
+'Cause if you set them up wrong,
+you know, there's a great story about
+the previous opening number to funny thing
+happened on the way to the forum,
+which was not comedy tonight.
+It was a song whose name I'm forgetting.
+But the show was not working and it was not working.
+And it wasn't until Stephen Thonheim wrote comedy tonight
+that the whole rest of the show worked
+because it's set up the audience
+to how they were supposed to interact.
+And they understood the vocabulary
+and the language of the rest of the night.
+And I like you can do that same thing in the pre-show.
+So I give it a lot of reverence.
+I think about it a lot.
+- You are preaching to the choir.
+As far as I'm concerned because I always tell my students
+that you design the show,
+thinking that what the audience is going through
+when they walk into the lobby.
+- Right.
+- Yeah.
+'Cause when I first started,
+I was working with not so very good directors.
+A lot of times it's like,
+let's just make the pre- saw it pretty.
+I don't really don't care what you put up there.
+Just make it pretty.
+And it's like the worst thing you could do
+'cause it's telling the story.
+You're absolutely right, Corey, that's like gold.
+- I love an ugly pre-set.
+When we just said, "Marily, we roll a log,"
+it's the story of Franklin Shepard looking back on his life
+and seeing how things went wrong.
+And our production, which is currently playing right now,
+it's Signature Theater,
+the character Frank walks out on what is essentially
+the detritus of an all-nighter lamps are turned over.
+There's just confetti and streamers everywhere.
+It looks like there was this giant party that happened.
+And but everyone has gone and everyone has left.
+And the only thing that's left is Frank alone
+with his piano because like he has no real friends anymore.
+The Charlie and Frank and the important people,
+as are you Mary, no longer really are his friends anymore.
+And he's alone.
+And so we wrote a pre-show that was really sort of dark.
+And haunting and felt like what Frank's soul feels like.
+Well, it was tricky because then you have to do
+the Marily Overture on top of that,
+which is this like really happy, bouncy thing.
+And we had a lot of conversations about like,
+is the pre-show too dark?
+Is it too moody?
+And I added a couple more practicals
+just to give it a little bit more warmth.
+But I really pushed to keep it kind of dark and moody
+the way it was because I thought that that really sets up
+our story because we're gonna travel back in time
+to a much happier point in Frank's life
+throughout the show.
+But he's really ending the show at his lowest point.
+And so I wanted the audience to start that journey with him
+in this sad lonely place and then work its way back.
+And by the way, the walk out is like super fun
+and colorful and the orchestra is playing.
+And it's like really happy.
+And all the set of lectures are turned on
+and the neon and everything.
+But that walk in, very different.
+And we thought a lot about that.
+Your website, your Instagram is full of visually stunning
+images, it's really well gone.
+- Thank you.
+- When I interview people and you had mentioned earlier,
+portfolio reviews, one of the things I always ask them
+is if they've done their own photography
+for their portfolios because I'm a television designer,
+I need to know what their camera sense is like,
+what their eye is like, how they compose something.
+If they're using somebody else's picture photo,
+that doesn't tell me that.
+If they're doing their own photos,
+then I know what they've got.
+Are all the photos on your website and Instagram
+shot by you, do you photograph them?
+- Yeah, I do.
+I mean, there might be a rare sort of close up
+or something usually from like a Broadway show
+that is shot really well by my friends
+who are the great Broadway photographers.
+But pretty much everything you see of my shows,
+I shoot myself, I have shot my own shows for a long time.
+I learned a lot of time ago to not trust the theater
+photographers, they are not there for us,
+they are not there to document our work.
+They are there to take close ups of the actors
+so they can send them to the New York Times
+so you can have a close up of a famous person
+in sell some tickets.
+That is why they're there.
+They're not there to capture full stage shots
+that have been properly exposed and properly balanced.
+So you can see all of the side electrics
+and all of the nuance and texture in the lighting.
+So no, I shoot all my own stuff,
+which is sometimes very difficult for shows
+that only have one dress rehearsal before a preview.
+So I'm shooting them while also like giving notes
+on headset while like handwriting notes myself.
+But no, I shoot them all.
+And I do do a lot of work after them.
+You know, I shoot in RAW and then because I know the show
+and I know what the cue should look like,
+I know how to restore the colors
+and you know, knock down the highlights
+and make everything look the way that it should look.
+And also because I know the blocking and the choreography,
+I know when to click the shutter button
+to get the best shot.
+And for talking for coming in for the first time,
+shooting the show is not gonna know that kind of stuff.
+So yeah, I'm really adamant about shooting my own things.
+- I think that's really important
+'cause I can't tell you how many times
+for theater crafts, lighting dimensions, entertainment design,
+live design, we ask a designer for images
+of something that they've done
+and they just don't have any.
+- I mean, you're right.
+You know, you've published plenty of my stuff over the years
+and usually half of them are my photos that I send to you.
+- That's why it's great.
+- Because they're full stage shots.
+They'll really show what it looks like.
+And all I'm trying to doing it,
+trying to do is recapture the experience
+of sitting in that theater.
+But generally speaking, you know, just right out of the gate,
+a camera cannot capture all of those level,
+you know, the difference between blue and purple
+and magenta and lavender.
+And you know, so I need to go in and tweak that
+to make it look like what you would see.
+And at this point, social media has become such a thing
+that I do plenty of shows where more people are seeing
+the photos that I post on Instagram
+than are actually seeing the show.
+You know, in these smaller theaters, you know,
+if I'm, you know, I'm getting tens of thousands of views
+on photos that not that many people
+may have seen the show.
+So taking those photos becomes really, really important
+because in a way more people will see that
+than the actual thing.
+And so I make sure I have a clear shot.
+I make like, it's really important to me.
+And I've gotten into some tips with theaters on and off again
+'cause they don't quite understand why the line designers
+being so pushy about needing to take their own photos.
+- No, you do, you do, you really need to.
+- But I'll tell you what, once the photos are done
+and the director sees them and the cast sees them
+and the other designer sees them,
+they're always very happy that they exist.
+- Absolutely.
+- Yeah, that's something I can't ever see myself.
+I, you know, I've been asked to go shoot other people's shows
+and I actually always say no, because I like shooting my own
+because like, there's no pressure.
+If I miss something, I only have myself to blame.
+But I don't wanna be responsible for someone else's work
+or their shows.
+- So now that you've done a hit Broadway show.
+- Yeah.
+- The gift that keeps giving.
+- Well, Gatsby, Gatsby is a real day.
+- That's huge, that's huge.
+- It's the Billie Elliott of, anyway.
+What's next?
+What's on your bucket list?
+- I mean, it's hard, right?
+Because like, all I ever wanted to do was work on Broadway.
+I worked on Broadway as an associate, you know,
+when I was younger.
+So like, okay, check, I had worked on Broadway.
+But obviously I wanted to design on Broadway.
+And so that was kind of the goal.
+And I don't, you know, I don't know if you guys sort of
+felt like this, but like the number of times when I was
+a younger designer that I'd be in some Poe-Dunk town
+to do with some show that nobody was ever gonna see.
+And I had no help and I would just tell myself,
+like, it all's working towards that same goal, right?
+Every little thing.
+A lot of those Poe-Dunk shows like,
+I would work with that director on a bigger show.
+- Right.
+- You know, or a better paying show,
+or a show that had a better budget.
+And so every time I would take a show,
+or have to sort of talk myself through a show,
+it would always be in service of like,
+I'm doing this for that dream.
+And then I got that dream and then I got it again.
+And then I got it again.
+So now I've had that dream and I would be lying
+if I didn't say that there has been a bit of like,
+recalibrating on my, look, obviously,
+if you've had 50 Broadway shows,
+you want your 51st Broadway show.
+That never changes, right?
+You always want the next one.
+You always want one to run longer,
+to make more money, to win more awards, et cetera, et cetera.
+But I will say that like, after having done that,
+there was a sense of like, okay, what is it all for now?
+Because obviously I want the work to be good
+and wherever I am, I try to make the work good,
+but it always helped that there was this sort of brass ring
+there in the future.
+So I have had to think about that.
+Ironically, one of those big things was
+I wanted to work for Disney.
+I wanted to like do a big show for Disney.
+And if anything came out of Gatsby,
+that is probably the biggest one,
+because someone had seen my work
+and seen what I could do with sort of lighting
+and video integration of which our show has a lot.
+And so that's how that came about.
+So getting able to do something else like that,
+I was like, great, I have a new goal.
+Oh, look, I got that goal, great.
+So then you start to look at other things like,
+I say yes to everything pretty much.
+If I'm available and the money isn't super offensive,
+I try to say yes to most things.
+I've been saying no to things
+and that's kind of a new thing for me, right?
+Like the ability to say no.
+Because when you're starting out,
+you feel like you can never say no to stuff.
+So I feel more comfortable saying no,
+I feel more comfortable prioritizing time home
+with my wife and being here home in New York.
+And so that I'm able to sort of shift that goal.
+And then there's like, there's like silly things, right?
+Like for having an multiple Broadway shows,
+I've never been like nominated for anything in New York.
+I don't win anything.
+Like forget, you know, like all of my, you know,
+call it in and obviously we don't do it for that.
+That's not why we do it.
+But like it's nice to get recognition.
+It's nice to see your friends get recognition.
+And I would love to, you know,
+I would love to be a part of that class at some point.
+So suddenly, you know, that becomes a goal.
+It's like, oh, I'd love to like be recognized
+by my peers or by one of these organizations, you know,
+for that kind of work and, you know,
+doing other kinds of shows.
+I would like to do more plays, which is crazy
+'cause all my friends that do plays,
+all they wanna do are like big musicals.
+And, you know, and I've even said to my agent,
+hey, like find me like a two person play
+at a little off-Broadway theater that pays nothing.
+All those other designers that can't afford to do that.
+I can't afford to do that.
+So I'll actually go do that.
+So, you know, the grass is always greener.
+It's about trying to stretch her muscles
+and do other things.
+I would love to do more theme park work.
+I'm obsessed with like big spectacle shows,
+like Cirque du Soleil style things.
+I would love to do like big circus style shows like that.
+So there's always things on the horizon.
+But what is it, is it Shaw?
+I can't remember.
+There's like that quote.
+It's like there are two great travices in life,
+and one is to never achieve your dreams
+and the others is to achieve them.
+- Right, right.
+- I might be misquote, I'm not sure.
+I'm not sure if we're Shaw.
+I'm like that.
+It was someone like that, wild, I don't know.
+But the point is it's like, yeah,
+what happens when the dog actually catches the car?
+It's like, well, now what?
+And so that has been an interesting thing to think about.
+I'm not in therapy.
+So I'm using this as therapy.
+Thank you for, thank you.
+Thank you for allowing me to build.
+But if I wasn't therapy, I suspect that we would talk
+about things like that.
+- You know, you just touched on something else
+about the integration of lighting and video in Gatsby.
+- Yeah.
+- And you did say before that,
+video designers are lighting designers,
+they just need to act and think like it.
+Can you expand on that?
+- Yeah, happily, 'cause this is like a little pet peeve
+of mine, which is that video, you just said it.
+Video designers are lighting designers.
+Let me say that again.
+Video designers are lighting designers.
+Whether you think you are or you aren't,
+you are a lighting designer.
+If you're doing front projection,
+you have a box with a light in it
+and it's pointing light at the stage.
+If you're doing LED screens, you have a big wall
+with thousands of little tiny lights pointing
+at the audience, you are a lighting designer
+and you have to think like a lighting designer.
+So what does that mean?
+That means number one, if the LED screens are too bright
+that I can't see the actors, that's bad lighting design.
+It doesn't matter how good your content is.
+If it's overpowering the performers as a lighting designer,
+I would never do that.
+And no lighting designer, you know,
+worth their soul, whatever, over power,
+the performer with lights so you couldn't see them.
+Because visibility, right, is like number one
+on the lighting checklist.
+And we see the people.
+So if your video walls are so bright
+that I can't see the people or my eyes hurts
+trying to look at the people,
+then you're a bad lighting designer.
+Number two, if you have front projection
+and you're projecting a white, you know, box onto some screen
+and the actors are walking through it
+and they have white light on them with a hard line
+on their thighs, that's bad lighting design.
+I would never point a light on the balcony rail
+at a bunch of performers and think that it makes them look good.
+And I realize that like, oh, well, now we have to mask it.
+And it's like, yeah, if you're gonna be a lighting designer
+and you know, what is the worst position for front light?
+It is the balcony rail, it is the dead in position.
+You learn that on day one, right?
+It's the least flattering angle to the body.
+It's just that dead in balcony rail position.
+It's why we don't front light shows from the balcony rail.
+Well, that's where projectors normally go.
+So you have taken the worst lighting position possible
+and put some really bright lights there
+and pointed them at the stage.
+And if you're not careful with where the light goes,
+you are now lighting the people.
+So that's a problem, that's bad lighting design.
+And if I wouldn't do that as a lighting designer,
+if another lighting designer wouldn't do that,
+then you can't do that as a projection designer
+because you're also a lighting designer.
+Back in the day before we had like really good LED projectors,
+video black was always a huge problem.
+And I would get in fights with projection designers
+about video black.
+And you know, we do all these tricks.
+There's dalsters, there's all sorts of things.
+But it would be like, I is not a blackout.
+Like I can see everybody running to places on stage.
+This is not a blackout.
+You've put a light on the, in the rig
+that is preventing us from going to black.
+And that's a problem.
+Because what if I were a lighting designer
+and on the blackout, I only took all the lights to 10%.
+Like the director would be like,
+well, can we go to a blackout?
+Well, no, my lights don't get any dimmer than 10%.
+That would be bad.
+You're a light designer.
+So they're like content aside.
+I always try to stress.
+And obviously the good projections I just know this,
+like I'm preaching to the choir here.
+But there are some bad ones out there.
+And young ones.
+And they need to learn that they carry a responsibility
+with them, not just as what the content is,
+but they are pointing lights at the stage
+which inherently makes them lighting designers.
+And so you need to think like a lighting designer.
+Great, that's my little soap box.
+- That was awesome.
+(laughing)
+- Should I do an L.T.I class?
+It's like lighting design for projection designers.
+I'm gonna run this little section,
+that little four-minute section,
+or five-minute section you did as a promo for the show.
+'Cause it's just hilarious.
+- Corey yells at his collaborators tune in next week.
+- No, no, but it's so true.
+It is so amazing too.
+And really brilliant to pay the truth.
+That's so much fun.
+- I mean, in the same way that,
+I try, there's not a lot of like similarities,
+but like in the same way that when our lighting rigs
+were really loud,
+it's not so much an issue anymore.
+But when we used to have really, really loud lighting
+sound design. - That was not fair to the sound design.
+- That's right.
+- Because in a sense,
+lighting designers were sound designers
+'cause we were making noise in the theater.
+So I understood why sound designers
+would get angry with us.
+So that's why I get angry at video designers.
+- You know, I have cut fixtures, moving lights from,
+not modern, moving lights,
+but like 15, 20 years ago,
+because they made too much noise.
+Because, you know, I mean,
+I'm doing some incredible Strauss opera or something,
+and it's like, if I'm a musician,
+I hear this humming and fan noise.
+I said, forget it, we can't do that.
+This pull out some, you know, of those PCs.
+You know, I'm going to use those
+because they don't make any noise.
+- Speaking of which, to this day,
+I can't believe how loud some of the projectors are
+that we hang on the bugging rails at 8/8 feet above that.
+- I was thinking I was in the bugging.
+- 8 feet above the like most expensive seats in the room,
+let's put a giant jet engine up there.
+Again, they're getting better.
+Obviously, the LED lamps produce let's heat,
+and so there's less fan noise.
+But again, we do not design in a bubble.
+Everything that we do has to work in harmony
+with the other departments.
+- Well, at least you don't have to use color scrollers anymore.
+Over here though. - That's so much.
+Though, I have some.
+Marily has a bunch of CXIs on it.
+So we're still up there.
+- What?
+- I still use them. - It was funny,
+because I forgot that you can't really get
+like a light blue on a CXI.
+And we were just, I'm so used to like LEDs now.
+We were saying they're trying to mix like a lead to a wand
+or something.
+And I was like, we ended up hanging additional lights.
+I was like, I cannot get like a steel blue out of this scroller.
+This is maddening.
+But you know, we just sort of dealt with it for years.
+But now we expect more from our lights.
+- I'm curious, why did you use scrollers?
+- They had them.
+- They had them because they had them in money, right.
+- They had them in stock.
+I needed to light the orchestra.
+They had a bunch of CXIs.
+I knew that we had a big entract and a big overture
+and it needed some big bold colors.
+And I was like, let's just throw the CXIs
+and some pars.
+And you know, it'll be fine.
+And you know, they're well maintained, they work.
+But I have, it had been a long time.
+I had forgotten that I cannot get certain colors
+out of those two drinks. - They're so funny.
+- We played that old trick with like,
+oh, well you can't get from blue to pink
+'cause it's going through white
+so that I would say to the programmer,
+just like, humped around on that side of white.
+What else can we find without having to go through white
+and yeah, it all came back to me.
+- Oh my God, that is hysterical.
+- To sort of wind things up,
+what advice would you give to the Corey Patik
+to graduating from Syracuse today?
+- I don't know, I mean obviously
+I get asked this question all the time
+and I never have a good answer.
+So I'll just pick some of them here.
+I think that you should try to see a lot of shows.
+So much of what I learned
+and what I was doing at the beginning of my design career
+was essentially just like trying to copy
+other things I'd seen,
+which is like what we all do, right?
+You're not doing anything wrong.
+Like you see something on stage,
+you see a kind of lighting or quality of lighting
+and you go, that speaks to me.
+I want my lighting design to sort of be of a similar vein.
+So I think seeing a lot of shows,
+seeing the kinds of shows that you want to design
+is really helpful.
+You learn a lot just by watching other people's work.
+I might tell Corey what to Syracuse,
+don't go to Syracuse, go to a school
+that has a directing graduate program
+because one thing that I learned
+is that pretty much all of the really successful
+line designers, let's say Broadway, sure,
+all the really successful lines that are brought
+by right now are probably because they were working
+for a director who hit it big.
+Don Holder was working for Julie Tamar
+doing other things and then she got lying king
+and then Don Holder became Don Holder, right?
+You know what I mean?
+Kevin Adams had years working for Michael Mayer
+and was doing these shows and then spring away
+getting happened and then boom,
+Kevin Adams is now big Broadway designer.
+I could go through every one of them, right?
+You could even maybe say that for me at some of my stuff.
+The point is like we do not get hired first,
+the directors get hired first.
+And if you're lucky enough to get attached to a director
+who hits it big and they take you with them,
+boom, you now hit it big, too.
+So you have to develop those director relationships early
+and when you're young and you have to go design shows
+together at summer stocks and festivals
+and develop relationships with these directors.
+So when they do work their way up,
+they say they want you with them, you know?
+This course line that I just did in Fifth Avenue,
+I was the only out of town designer
+and I was there because Dennis Jones,
+who I worked for on and off for like two decades now,
+he said, "I want to bring the lines designer from New York
+"and I know who I want to bring."
+There was no question about it.
+I was the guy he wanted in the room
+and I have other directors like that, you know,
+those say like you're my first call.
+Even before a set designer, you're my first call.
+You want to be that person.
+You want to be the person who the director feels like
+they can't do it without you.
+And so the only way to do that is to build
+those directing relationships early in your career,
+I didn't have a lot of those
+'cause there was no directing program at Syracuse.
+And so I had to build them all from scratch
+when I came out.
+So designers, build director relationships.
+I also think you can't be shy in this business.
+I can't tell you how many times I hire assistants
+mainly because I like their personality.
+I know how to draft a light plot,
+I know how to take notes, I know how to focus a light.
+Any deficiencies that I might find with an assistant,
+I can usually like fill in with myself.
+What I can't fill in is if they're like a total drag
+at the tech table or they don't have a sense of humor
+or they can't, you know, they aren't like a fun person
+to be around, you know, so like you need to be able to talk
+to people, you need to look them in the eye
+when you shake someone's hand, you need to look them
+in the eye as you shake their hand and say your name
+and clearly be able to carry on a conversation.
+It's why I like going to these student showcases
+because yeah, we look at light plots,
+but more than that, I'd such a talk to them.
+And I like to see what the personality is like.
+And for me, it comes naturally,
+I totally understand it for some people that doesn't.
+So you have to practice that.
+You have to like find yourself in rooms
+with people that you may not know
+and like practice having conversations
+and practice keeping the ball in the air
+and you know, a free flowing, you know,
+conversation of ideas back and forth.
+Because working in the theater is a really intimate
+relationship, it can be high stress
+and you need to be comfortable with the personalities
+that you have around you
+and people want to be comfortable with you
+and if you seem shot shy or meek or timid
+or you can't speak up for yourself
+or you can't share your ideas,
+then people might not want to be in the room with you.
+And so you have to be able to be social
+to in a certain extent.
+I know a lot of people do what we do
+because they don't like being in the spotlight.
+They like sitting out in the dark and I think that's okay,
+but you get jobs through personal connections
+and you have to be comfortable enough
+going to getting coffee with the director
+and sitting down and carrying on a conversation
+for an hour with that director
+because that's how they're going to decide
+whether they want to work with you or not.
+That's some things, there's plenty more.
+- Well, you're obviously a very good mentor.
+I mentioned to someone who assisted you
+for several shows, our fellow podcaster
+and designer Ethan Steinmill.
+- Yes.
+- And he couldn't say enough nice things
+and he asked me if I could pass something on to the audience
+and I'm going to read to you what Ethan said.
+So be ready.
+- And then after you do this,
+I'm gonna tell you why I hired Ethan
+and I will prove my point.
+- Okay.
+- I'm that Corey when he's with Sisking Jeff Croighter
+I'm the off-Broadway transfer of Peter
+in the Starcatcher in 2013.
+Over the years, I would assist Corey
+on a half a dozen shows.
+I could write a book about what Corey has taught me.
+When he got his first Broadway show,
+I was overjoyed.
+He's the one person in the world
+that I always thought deserved a light Broadway.
+When I was a year into the artistic finance podcast,
+Corey reached out and said,
+"Come on my podcast, tell us about it."
+Last year when I started teaching, Corey zoomed in
+to one of my classes, he talked to my students.
+Corey's care and love of lighting and the industry
+is so genuine.
+I will always be grateful to Corey
+and I'm lucky to call him a colleague and friend.
+That's very kind.
+And I will say to make my point,
+although Ethan is a great associate and a great designer,
+the reason I initially hired him
+was because I liked hanging out with him.
+We met at one of the Hemsley receptions
+and we chatted and he laughed and I laughed
+and I told jokes and he told jokes
+and we got along like a house on fire.
+And I was like, this is someone
+who I'd want to get dinner with
+who I'd want to sit next to for 10 hours a day.
+And so we did do a bunch of shows together
+and I will say that's why I hire a lot of my associates.
+Natalie Arco who's working for me on a show right now.
+Like I like being in the room with Natalie.
+She's a really good associate like designer.
+She's also just like an awesome person to hang out with
+and she's really fun and she's super cool.
+And I like being in the room with her
+and I like her being in the room with the other people
+who I am working with
+and that is so often the most important thing to me.
+And Ethan was another one of those.
+It was just like, oh, we're just like,
+you know, it's like blind dating, right?
+Like you find people that you connect with
+and you're like, I think I want to be in a room with you more.
+And so that's very kind of him to say.
+But it wouldn't have happened if he was like a total dark
+but he was actually, he was actually very fun.
+And so I was excited to hire him for when I did.
+- Thank you for saying that
+'cause that's what our audience of students needs to hear.
+- Right, exactly.
+When it comes to advancing in this profession
+and almost every other profession is a matter of fact
+when you think about it
+because we all want to work with people.
+I think that's the golden thing right there
+is that you do want to be with somebody you like
+sitting in the room working on it.
+- I'll give one other piece of advice
+that I think about a lot.
+And it was told to me, but it really is true.
+Which is as a line designer,
+you need to hear every single conversation
+that happens in the room.
+And that's actually something that you have to practice
+because you have to practice talking to your programmer
+while also hearing that the choreographer
+has walked up to the director and has said,
+hey, I think this is too far upstage
+we need to bring everyone downstage.
+And so as I'm hearing them say that,
+I'm saying the programmer,
+hey, you know actually like they're about to move downstage,
+bring it downstage.
+The number of times that people like a stage manager
+or an associate will tell me something in the room
+that I already know about
+because I heard that conversation happening six rows
+in front of me.
+Or I saw them pointing at the stage.
+Or I saw them walk over to the side of the stage
+and realize that you can't see that actor.
+So they're probably gonna have to pull them downstage
+so the bad sight lines can see them.
+And you can't just stop and quietly listen to all that.
+You have to keep working while listening
+to all these conversations.
+Because, and here's the other reason,
+though they will often lead to a note
+that is gonna come back to you.
+And if you're getting that note for the first time,
+they might take you a beat to respond to that.
+But if the director is standing onto the side of the theater
+it can't see the actor,
+then there are 10 seconds away from coming over and saying to you,
+hey, can I pull them downstage five feet?
+And I've already thought about,
+oh, I have that same light on the second electric.
+I can just use that light
+instead of the light of the third electric.
+And so when the director says,
+can I move them down five feet?
+I say, I'm already on it.
+Look, I've already fixed it to be further downstage.
+And they say great and they walk away.
+So you have to be able to listen to all those conversations.
+And if it doesn't come naturally
+you have to find ways to practice it.
+- And this is these are the qualities
+that you need to have.
+If you want to be a successful improvisational jazz
+musician in a band.
+You need to know what everybody's doing,
+what's happening around you.
+And, you know, that's it.
+- My favorite thing is when a director has changed something
+and they go, "Cory, did you?"
+And I go, "I'm on it."
+(laughing)
+I don't have to finish the sounds.
+- In fact, the program already hasn't set up.
+- Literally, sometimes they will turn around
+to looking me to tell me the note
+and I will tell them to turn back around
+and see that the notes are already done on the same.
+- Yeah, that was a great moment.
+- You have to be two steps ahead
+of everyone in the room.
+- And the director will hire you from then on.
+- There you go, it saves them time.
+- There you go, other people do that
+'cause they don't fit them.
+- Never forget that directors don't want to talk
+about the lighting.
+They want to hire someone who just does the lighting
+and they're happy with it or they give notes.
+So the less they have to tell you what to do,
+the more they're going to keep hiring you
+because that makes their job easier.
+- Wow, why don't they interview this was,
+I might want to thank you so much.
+- Awesome, man, I can't wait to sit back
+and listen to this again.
+And I think this is gonna be terrific for our students
+and all of our listeners of Light Talk.
+- Wait, I just realized there's a story.
+I'm gonna tell a very quick story
+that Ellen, you won't remember this probably,
+but I might credit my entire career to you, Ellen.
+Are you ready for this?
+- Yeah, go ahead.
+- When I was, I think like a sophomore in college,
+I went to US ITT and I think it was in Minneapolis.
+This would have been the very, very early 2000s.
+And there was like a trivia contest
+and you were there giving away things.
+I remember what it was and one of the things
+that you gave away was Aldi, what was it called?
+The Broadway Lighting Master classes, attending.
+And I didn't like win the thing, whatever, I don't know.
+But for whatever reason, you and I got a conversation after
+and I was like, I really wanted to go
+the Broadway Lighting Master classes
+and you said to me, if you can get yourself to New York,
+I will get you into the classes.
+And I went, and I went to those classes.
+I remember Jules Fisher sitting on the stage at John Jay
+with his little magic box.
+- And his light bulb, his light bulb.
+- I remember, I remember Beverly talking about color.
+I can't remember else the other things.
+But this was like early 2000s.
+I stayed on a friend's couch in New York.
+It was one of the first times I'd been to New York
+and had actually been around real Broadway lighting people
+and I was like, this is where I want to be.
+So, Ellen, we owe it all to you.
+- Wow, so glad that worked out.
+- There you go, thanks for the, thanks for the free class,
+I guess.
+- You're more than welcome.
+Look at the success you made of it.
+- Here we are.
+- That is beautiful.
+- That is absolutely beautiful.
+- Full circle.
+- That's great.
+- That is awesome.
+Well, Corey, thanks again for being with us today.
+- Thanks for having me.
+- We need to have you back on
+because this was just too much fun.
+- All right, well, you know how to find me.
+I'm around.
+- Oh, yup.
+- We'll see you at LDI.
+This is really exciting.
+- Yeah, yeah, I'm gonna try to go out
+for like a day or two, just to,
+I just wanna walk the floor.
+I don't need to learn how to use a spot on.
+But I will not do.
+- It's on Sunday, we're doing a live broadcast of light talk.
+I'll come in the back and I'll come heckle.
+- Yeah, I'll come heckle in the back.
+- People heckling.
+It's actually an event.
+It actually is fun.
+- It's so like, we'll see a whole lot.
+- I mean, it has got to the point now where it's like,
+I am at the point of my career
+where I can like, expect gear and ask for gear.
+And so it does help to be able to like,
+try to see as many lights in person.
+And thankfully the shops here are great
+about like, you know, sending lights and seeing demos,
+but you know, it'd be great to see it all in one spot.
+So I'm gonna try to take advantage.
+- We can have fun too, come on.
+- I'm less interested in that part.
+I just want to see cool stuff.
+- Well, we look forward to seeing you in Vegas.
+- 'Cause like, I don't gamble.
+Like, I don't care about the gambling.
+I'm not like a partier.
+- Yeah, I just want to like, you know,
+find me the brightest moving light on the planet.
+- Well, what we do for a living is gambling.
+- Yeah, exactly.
+- All right, funny, right.
+- All right.
+- Awesome, well thanks.
+- Awesome, well thanks guys.
+(upbeat music)
+- Well, the rocking sounds of the luminoids tell us
+that once again you've spent another Wednesday morning
+listening to Light Talk.
+You can hear our show on just about every podcast site
+out there.
+Check out our website at lighttalk.org
+and be sure to follow us on Facebook.
+And don't forget to subscribe to our podcast.
+That way you will not miss a second
+of Light Talk insanity.
+- No guarantee is offered regarding the accuracy
+of any statements or opinions made on this podcast.
+However.
+- Hey listeners of this pathetic gibberish.
+- Lab and heard from me for a while.
+David's been keeping me pretty busy
+with our own Light Talk after dark,
+if you don't know what I mean.
+But trust and believe if you do decide to litigate
+you will have to deal with me.
+Snoot from the snoot group and I'm not any softer.
+So don't f*ck with me.
+- Light Talk coming to you
+from the beautiful Belmont Shore neighborhood
+of Long Beach, California, the tropical paradise
+of St. Hart's and the entertainment capital
+of the Mid-Atlantic States, New York City,
+where you can see quarry paddocks wonderful artistry
+on the great white way in the hit musical,
+the great Gatsby at the Broadway theater.
+- Be sure to join us next week
+when we dive into more lighting shenanigans
+and serve up a fresh piping hot,
+guess we're all of nonsense.
+- Light Talk.
+Broadcasting questionable human knowledge and humor
+around the world.
+You will see all mixed Wednesday morning bye-bye from Light Talk.
+- Bye-bye.
+(upbeat music)

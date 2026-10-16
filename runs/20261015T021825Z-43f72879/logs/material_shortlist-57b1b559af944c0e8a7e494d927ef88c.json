@@ -1,0 +1,14 @@
+{
+  "stage": "material_shortlist",
+  "status": "completed",
+  "input_count": 12,
+  "output_count": 12,
+  "started_at": "2026-10-15T02:21:13Z",
+  "finished_at": "2026-10-15T02:21:13Z",
+  "tools": [
+    "python:json"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

@@ -1,0 +1,15 @@
+{
+  "stage": "extract_content",
+  "status": "completed",
+  "input_count": 76,
+  "output_count": 76,
+  "started_at": "2026-10-15T02:13:26Z",
+  "finished_at": "2026-10-15T02:15:45Z",
+  "tools": [
+    "data/store.py get (retained media reuse)",
+    "requests (curl failed: curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030E) - No credentials are available in the security package)"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

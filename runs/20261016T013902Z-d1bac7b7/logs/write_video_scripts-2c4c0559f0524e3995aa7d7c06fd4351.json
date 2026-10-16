@@ -1,0 +1,14 @@
+{
+  "stage": "write_video_scripts",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-16T01:57:00Z",
+  "finished_at": "2026-10-16T01:57:00Z",
+  "tools": [
+    "OpenAI Responses API:gpt-4.1-mini"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}

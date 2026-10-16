@@ -1,0 +1,14 @@
+{
+  "stage": "create_briefs",
+  "status": "incomplete",
+  "input_count": 78,
+  "output_count": 0,
+  "started_at": "2026-10-15T02:39:07Z",
+  "finished_at": "2026-10-15T02:39:07Z",
+  "tools": [],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": [
+    "Piece 01 has fewer than three accepted independent publishers"
+  ]
+}

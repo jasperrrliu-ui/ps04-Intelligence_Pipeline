@@ -1,0 +1,14 @@
+{
+  "stage": "fetch_youtube",
+  "status": "completed",
+  "input_count": 2,
+  "output_count": 2,
+  "started_at": "2026-10-15T02:45:38Z",
+  "finished_at": "2026-10-15T02:45:46Z",
+  "tools": [
+    "yt-dlp"
+  ],
+  "cost_usd": null,
+  "cost_basis": "network and compute cost not measured",
+  "errors": []
+}
